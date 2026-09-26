@@ -1,0 +1,1001 @@
+age,income,employment_years,loan_amount,debt,late_payments,credit_history_years,monthly_expenses,number_of_loans,employment_type,education,payment_history,creditworthy
+24,148945.0,6,117815,38099.0,0,6,78387.0,5,Self-employed,Bachelor,Good,1
+51,137347.0,1,102419,101128.0,3,14,79349.0,2,Salaried,Bachelor,Average,1
+47,108447.0,12,139841,4233.0,0,17,41950.0,3,Salaried,Bachelor,Good,1
+38,161598.0,14,144286,53567.0,4,19,75525.0,0,Salaried,Bachelor,Good,1
+38,38779.0,20,107212,96116.0,1,8,43096.0,2,Contract,Master,,1
+55,167212.0,3,58782,114357.0,0,9,15298.0,3,Self-employed,Bachelor,Average,1
+24,155737.0,6,91865,30170.0,0,3,70225.0,0,Self-employed,Bachelor,Average,1
+48,99589.0,4,66637,78096.0,1,1,36718.0,0,Salaried,Diploma,Poor,0
+29,136810.0,11,96219,22762.0,0,9,51320.0,0,Salaried,Bachelor,Good,1
+24,102285.0,6,122758,13907.0,1,6,54015.0,1,Self-employed,High School,Good,1
+42,61540.0,15,58553,42363.0,0,2,28794.0,6,Contract,Bachelor,Poor,0
+60,147579.0,12,78336,106212.0,1,8,60279.0,4,Salaried,Bachelor,Average,1
+50,57839.0,4,11617,82737.0,2,13,43097.0,6,Salaried,Bachelor,Average,0
+51,68941.0,28,111803,58712.0,4,17,33111.0,1,Salaried,Bachelor,Good,1
+49,102125.0,20,76029,33938.0,2,19,28045.0,4,Salaried,Bachelor,Good,1
+52,153656.0,9,71658,16996.0,3,7,61225.0,6,Contract,High School,Poor,1
+41,80196.0,12,82202,32492.0,0,8,24451.0,2,Self-employed,High School,Average,1
+26,98051.0,8,36247,18322.0,1,8,15187.0,4,Salaried,Master,Average,1
+54,24749.0,22,91705,22450.0,1,14,71250.0,4,Salaried,Master,Good,1
+39,36768.0,14,113055,82504.0,0,5,30554.0,5,Salaried,Diploma,Good,0
+41,27063.0,9,55703,15923.0,1,14,53437.0,6,Salaried,Diploma,Good,1
+35,29673.0,17,24017,5684.0,1,3,59016.0,4,Salaried,Bachelor,Average,1
+28,158701.0,10,61091,65081.0,1,9,68037.0,4,Self-employed,Bachelor,Good,1
+58,154403.0,18,33794,34391.0,1,6,52301.0,6,Self-employed,Bachelor,Good,1
+52,151146.0,2,59221,54567.0,2,20,58388.0,4,Salaried,High School,Good,1
+46,27002.0,14,95890,16774.0,1,0,67954.0,2,Self-employed,Bachelor,Poor,1
+37,30578.0,19,21442,25197.0,0,17,75809.0,4,Self-employed,Diploma,Good,1
+53,63459.0,29,113354,52929.0,1,5,9467.0,3,Salaried,Diploma,Good,1
+42,109578.0,16,37569,82803.0,3,0,61001.0,1,Self-employed,Diploma,Average,1
+38,72129.0,10,134730,49722.0,1,13,18905.0,3,Self-employed,Bachelor,Average,1
+39,96985.0,17,111205,65006.0,0,14,71955.0,4,Self-employed,Bachelor,Average,1
+30,46025.0,5,44525,62625.0,0,2,9588.0,6,Salaried,Diploma,Poor,0
+24,136386.0,2,86668,32263.0,2,0,24261.0,4,Salaried,Bachelor,Good,1
+43,68851.0,21,21055,33556.0,3,2,20216.0,1,Salaried,Bachelor,Poor,0
+56,28779.0,30,19462,51087.0,3,8,50653.0,6,Salaried,Bachelor,Poor,1
+23,138316.0,5,143627,3845.0,1,2,6316.0,4,Salaried,Master,Good,1
+55,164252.0,18,121353,82248.0,1,14,7259.0,2,Self-employed,High School,Average,1
+54,20378.0,1,27391,73726.0,0,1,43312.0,5,Salaried,Master,Good,0
+32,88741.0,14,45990,36736.0,0,14,77904.0,2,Salaried,Bachelor,Good,1
+46,152002.0,13,33661,44846.0,1,18,45095.0,2,Contract,Bachelor,Good,1
+27,132399.0,8,62298,39444.0,0,9,38999.0,5,Salaried,Bachelor,Good,1
+51,156761.0,27,47243,78160.0,1,19,54684.0,6,Salaried,Diploma,Poor,1
+49,85264.0,23,52569,91167.0,3,19,46834.0,3,Salaried,High School,Good,0
+35,78306.0,17,81762,13040.0,0,0,34483.0,2,Salaried,Master,Average,1
+23,132887.0,5,32412,49598.0,1,5,49553.0,6,Salaried,Bachelor,Good,1
+59,42885.0,30,133010,1653.0,3,15,6237.0,1,Self-employed,Bachelor,Good,1
+38,56786.0,14,110510,54270.0,2,7,24092.0,5,Salaried,Bachelor,Good,1
+56,115336.0,16,115279,29795.0,0,15,55868.0,4,Salaried,High School,Good,1
+48,126290.0,23,29574,40296.0,0,16,31275.0,5,Salaried,Diploma,Average,1
+52,37387.0,20,107683,54786.0,1,20,10017.0,2,Self-employed,Bachelor,Poor,1
+51,100346.0,5,126256,38847.0,1,6,15208.0,5,Salaried,Bachelor,Good,1
+28,77117.0,9,30401,47289.0,3,7,70097.0,0,Self-employed,Bachelor,Poor,0
+35,99283.0,11,113936,91773.0,0,0,30389.0,5,Salaried,Bachelor,Average,1
+39,173266.0,21,56864,97237.0,1,5,7676.0,0,Self-employed,Bachelor,Average,1
+40,30410.0,22,119199,703.0,5,5,59932.0,4,Salaried,Bachelor,Good,1
+22,179266.0,4,74369,45340.0,2,4,45255.0,1,Salaried,High School,Good,1
+42,90832.0,22,121321,101627.0,1,8,39403.0,6,Salaried,Bachelor,Poor,1
+27,143081.0,9,26376,63653.0,0,9,72224.0,5,Self-employed,Bachelor,Average,1
+50,86764.0,12,61416,24633.0,0,16,29215.0,0,Salaried,Diploma,Good,1
+48,68376.0,12,44647,71222.0,0,15,48364.0,6,Salaried,Diploma,Average,1
+57,142837.0,27,41013,17391.0,2,0,61123.0,1,Salaried,Diploma,Good,1
+50,129402.0,17,49708,2619.0,1,9,51023.0,3,Salaried,Diploma,Average,1
+35,41337.0,4,60453,75891.0,1,15,21390.0,0,Salaried,Bachelor,Good,0
+59,132276.0,22,23455,61816.0,1,5,56439.0,0,Salaried,High School,Poor,1
+37,139999.0,18,107527,90780.0,3,8,61012.0,1,Salaried,Bachelor,Good,1
+34,,15,84785,41380.0,0,15,15058.0,3,Salaried,High School,Good,1
+57,167956.0,22,125244,102514.0,4,16,18243.0,3,Salaried,High School,Average,1
+35,121824.0,17,107229,50554.0,3,17,55945.0,5,Salaried,Diploma,Good,1
+24,72048.0,6,26611,88563.0,2,6,14804.0,1,Salaried,Diploma,Poor,0
+39,19737.0,12,15140,12034.0,1,8,71147.0,5,Salaried,Master,Average,0
+52,127344.0,5,66307,11658.0,0,8,14108.0,0,Contract,Diploma,Good,1
+28,51867.0,10,74763,93939.0,2,10,78093.0,2,Salaried,Diploma,Good,0
+39,140558.0,12,39836,100079.0,0,8,55692.0,1,Self-employed,Diploma,Poor,1
+26,103064.0,8,118421,113089.0,3,8,38786.0,0,Salaried,Bachelor,Average,1
+48,93610.0,21,89330,38955.0,1,3,25861.0,4,Salaried,Bachelor,Poor,1
+40,44527.0,12,113459,2672.0,1,10,31493.0,6,Salaried,Bachelor,Good,1
+34,133264.0,14,20806,117589.0,1,4,61390.0,4,Salaried,Bachelor,Poor,0
+30,44877.0,12,123186,72165.0,1,11,61745.0,5,Self-employed,Bachelor,Good,0
+43,85676.0,8,34883,29654.0,2,18,21440.0,4,Self-employed,Bachelor,Average,0
+47,153482.0,3,69995,91662.0,1,16,46173.0,0,Salaried,Master,Good,1
+58,167100.0,25,68709,108468.0,1,10,79478.0,2,Self-employed,Bachelor,Good,1
+38,178240.0,2,123981,34177.0,1,20,25040.0,5,Salaried,Diploma,Poor,1
+27,173198.0,9,45143,92361.0,1,9,57312.0,0,Salaried,Bachelor,Poor,1
+54,108067.0,20,39909,94507.0,1,9,18739.0,0,Self-employed,Bachelor,Good,1
+46,50478.0,4,54246,60202.0,2,16,67723.0,5,Salaried,Bachelor,Poor,1
+49,153930.0,20,57317,75883.0,3,7,18597.0,0,Salaried,Master,Good,1
+24,147864.0,6,31344,32342.0,1,6,28024.0,6,Contract,Master,Good,1
+33,178433.0,15,30571,111500.0,2,7,39979.0,5,Contract,Diploma,Good,1
+51,123454.0,9,38544,117973.0,1,5,33428.0,4,Self-employed,Bachelor,Good,1
+54,40938.0,0,72785,117721.0,2,2,18589.0,3,Salaried,Bachelor,Good,0
+38,99470.0,20,54786,88455.0,1,17,53433.0,0,Self-employed,Bachelor,Good,1
+53,90616.0,10,61849,5081.0,0,6,7459.0,2,Salaried,Bachelor,Good,1
+54,154558.0,24,109263,43974.0,2,17,78781.0,5,Salaried,Master,Average,1
+36,81597.0,6,39934,53392.0,0,1,9854.0,6,Salaried,Bachelor,Average,0
+56,71232.0,5,136935,115182.0,0,10,30706.0,3,Contract,Bachelor,Average,0
+32,30968.0,14,114008,65639.0,1,8,74812.0,5,Contract,High School,Good,1
+30,153344.0,12,30329,64340.0,2,9,17476.0,5,Self-employed,Bachelor,Average,0
+48,140364.0,26,50508,17609.0,1,3,,0,Salaried,Master,Good,1
+46,24678.0,23,31615,95247.0,1,1,61050.0,4,Salaried,Bachelor,Average,0
+26,88272.0,7,44556,40354.0,1,7,11415.0,4,Salaried,High School,Average,1
+54,95714.0,28,57997,11024.0,2,9,72571.0,3,Contract,Master,Good,1
+28,94031.0,10,23979,118518.0,2,10,39388.0,5,Salaried,Bachelor,Good,1
+53,166867.0,5,7092,22808.0,0,9,70331.0,6,Salaried,Bachelor,Average,1
+21,42409.0,3,68629,1947.0,1,3,24137.0,3,Self-employed,High School,Poor,0
+52,67628.0,27,106644,9340.0,0,5,16444.0,2,Salaried,Bachelor,Average,1
+52,47310.0,8,48930,54301.0,1,12,77240.0,6,Self-employed,High School,Poor,0
+52,57541.0,23,129767,12348.0,2,9,62401.0,6,Salaried,Diploma,Poor,1
+47,164951.0,4,58544,101119.0,0,18,73413.0,4,Self-employed,Bachelor,Good,1
+39,170397.0,8,135616,61494.0,1,9,29672.0,4,Salaried,Master,Average,1
+49,25233.0,8,39219,38868.0,1,11,35951.0,0,Salaried,Bachelor,Good,0
+32,120399.0,8,83203,377.0,1,1,48715.0,2,Salaried,Master,Good,1
+52,55722.0,20,115658,57576.0,0,4,39206.0,1,Salaried,Master,Good,1
+43,49195.0,25,13560,18156.0,1,17,23957.0,3,Self-employed,High School,Poor,1
+39,65313.0,21,139851,117366.0,0,7,33758.0,5,Salaried,Diploma,Average,0
+41,49490.0,22,57919,34930.0,2,8,51048.0,1,Salaried,Bachelor,Good,1
+43,97412.0,6,77200,56985.0,4,12,8802.0,6,Self-employed,Bachelor,Good,1
+22,179289.0,4,96124,,3,1,30860.0,0,Salaried,Bachelor,Good,1
+26,113004.0,8,98235,15710.0,1,8,27670.0,0,Self-employed,Bachelor,Average,1
+30,135166.0,12,8431,24898.0,2,7,11203.0,6,Self-employed,Bachelor,Poor,1
+25,97913.0,7,130740,6206.0,2,3,15077.0,0,Salaried,Bachelor,Good,1
+38,20252.0,20,95423,87119.0,2,8,,5,Self-employed,Bachelor,Good,0
+47,31626.0,29,149831,113450.0,1,9,13575.0,5,Salaried,High School,Average,0
+47,61557.0,18,73369,118243.0,2,3,31523.0,2,Salaried,Diploma,Good,0
+39,57474.0,18,93960,31897.0,0,11,47504.0,0,Salaried,High School,Good,1
+55,154174.0,23,68954,94650.0,0,15,70665.0,2,Self-employed,Master,Good,1
+43,154662.0,7,134018,60488.0,0,5,13308.0,0,Salaried,Master,Good,1
+24,156368.0,6,125697,5502.0,1,6,38164.0,4,Salaried,Bachelor,Good,1
+51,121290.0,19,136749,10884.0,0,12,13617.0,6,Contract,High School,Poor,1
+43,108100.0,1,78121,65734.0,2,16,37714.0,6,Salaried,Bachelor,Good,1
+46,123162.0,9,119761,50839.0,3,1,41558.0,5,Contract,Diploma,Good,1
+43,83903.0,22,57025,1005.0,4,16,65146.0,5,Self-employed,Bachelor,Average,0
+43,126573.0,25,71835,111613.0,1,7,38729.0,6,Contract,Diploma,Poor,1
+24,146700.0,6,115232,87641.0,3,6,75228.0,5,Contract,Bachelor,Good,0
+43,141591.0,12,16767,60290.0,1,16,16185.0,4,Contract,High School,Good,1
+52,117441.0,13,108021,118440.0,0,5,9933.0,6,Salaried,Bachelor,Average,1
+33,27413.0,15,7291,116537.0,1,5,6329.0,2,Self-employed,Master,Good,0
+45,135442.0,16,89194,116875.0,0,1,32399.0,2,Self-employed,Bachelor,Average,1
+22,77390.0,0,74194,31060.0,0,4,20280.0,6,Self-employed,High School,Good,0
+34,138474.0,16,72958,105707.0,0,16,12777.0,2,Salaried,Master,Good,1
+38,105403.0,12,76676,60545.0,2,8,23456.0,2,Contract,Bachelor,Good,1
+60,160752.0,21,76330,87125.0,0,3,78149.0,1,Salaried,Bachelor,Average,1
+29,72830.0,11,64067,103144.0,1,6,65219.0,1,Salaried,Bachelor,Good,1
+32,168886.0,14,70446,19599.0,1,8,7374.0,4,Salaried,Master,Good,1
+37,154806.0,18,87384,53790.0,1,19,73743.0,6,Salaried,Bachelor,Good,1
+60,71639.0,11,115703,15468.0,1,2,21189.0,0,Self-employed,Bachelor,Average,1
+55,96177.0,13,85064,33538.0,4,7,36040.0,4,Salaried,Bachelor,Good,1
+22,104078.0,4,98166,49622.0,2,4,30245.0,5,Self-employed,High School,Average,0
+30,142518.0,12,126309,102657.0,1,4,35972.0,6,Self-employed,Bachelor,Average,1
+53,129644.0,26,148480,103520.0,3,18,62294.0,5,Salaried,High School,Good,1
+23,156027.0,5,20755,46787.0,0,5,58724.0,1,Self-employed,Bachelor,Poor,1
+55,77918.0,10,108374,39503.0,1,7,49959.0,3,Salaried,Bachelor,Poor,1
+32,99776.0,9,37650,63687.0,2,14,52392.0,6,Self-employed,Diploma,Good,1
+57,87800.0,26,33533,109425.0,0,15,59837.0,6,Contract,Bachelor,Good,1
+32,165348.0,14,119986,117184.0,0,14,19626.0,4,Salaried,Bachelor,Good,1
+38,67407.0,20,14960,27211.0,1,3,35279.0,6,Self-employed,Diploma,Good,1
+47,113114.0,15,127937,22378.0,0,1,13969.0,4,Salaried,Diploma,Good,1
+26,37467.0,8,116729,84813.0,1,7,58109.0,0,Salaried,Master,Poor,0
+43,155745.0,19,149250,36168.0,1,2,38383.0,6,Self-employed,Master,Poor,1
+41,80243.0,23,101852,23971.0,1,6,53159.0,1,Salaried,Bachelor,Good,0
+52,73176.0,10,131573,3728.0,3,13,47797.0,2,Self-employed,Diploma,Good,1
+60,112433.0,25,22187,48385.0,2,12,26249.0,1,Salaried,High School,Good,1
+47,98808.0,7,134036,47020.0,1,4,16264.0,5,Salaried,High School,,1
+37,155373.0,12,28247,67567.0,0,0,77998.0,0,Contract,Bachelor,Good,1
+37,104089.0,19,50580,24022.0,1,4,27702.0,4,Salaried,Master,Poor,1
+37,101753.0,19,23588,85724.0,1,9,,6,Self-employed,Bachelor,Poor,1
+53,35006.0,28,63241,81604.0,1,16,28640.0,5,Salaried,Diploma,Good,1
+33,21554.0,9,113605,55482.0,1,7,72779.0,2,Self-employed,Master,Average,0
+27,82565.0,9,43872,21758.0,0,6,25336.0,6,Salaried,Bachelor,Average,1
+34,179710.0,16,124219,60835.0,0,11,79023.0,2,Salaried,Diploma,Average,1
+21,166609.0,3,92914,80978.0,0,1,40096.0,4,Salaried,Bachelor,Good,1
+25,119895.0,0,96194,44726.0,0,4,69775.0,3,Salaried,Diploma,Good,1
+24,120195.0,6,141127,31617.0,0,0,54327.0,0,Contract,Master,Average,1
+51,81423.0,30,67618,60781.0,1,11,9251.0,0,Salaried,Bachelor,Good,1
+49,46756.0,23,54973,42626.0,0,9,43695.0,1,Salaried,Bachelor,Average,1
+48,19384.0,7,149211,48061.0,0,12,36853.0,6,Self-employed,Bachelor,Good,0
+39,72894.0,21,85765,41863.0,0,12,20907.0,6,Salaried,Master,Average,1
+49,69268.0,3,94118,36416.0,1,8,46699.0,2,Salaried,Bachelor,Average,1
+27,49039.0,9,47963,86010.0,1,9,13617.0,6,Salaried,Bachelor,Good,0
+57,59985.0,19,36238,55229.0,0,19,57674.0,0,Salaried,High School,Good,1
+41,22021.0,14,29621,55981.0,1,2,66819.0,6,Self-employed,Master,Average,0
+58,116490.0,21,37416,78370.0,0,19,12848.0,1,Contract,Bachelor,Good,1
+27,168249.0,7,33302,43356.0,0,4,41469.0,0,Contract,Diploma,Average,1
+40,129910.0,18,113275,12124.0,4,5,54479.0,5,Contract,Master,Average,1
+48,90610.0,19,13402,102315.0,1,11,10598.0,2,Salaried,High School,Good,1
+40,86083.0,19,96261,6684.0,1,0,34810.0,2,Salaried,Diploma,Average,1
+38,67820.0,8,142648,68634.0,2,7,25101.0,5,Self-employed,Bachelor,Good,0
+27,41069.0,9,116005,31898.0,2,4,8905.0,2,Contract,Diploma,Average,0
+36,114953.0,7,63417,25659.0,1,10,65499.0,5,Self-employed,Bachelor,Good,1
+30,109777.0,12,13613,5034.0,3,12,38906.0,1,Salaried,Diploma,Good,1
+33,19184.0,15,125948,108011.0,2,15,61628.0,0,Self-employed,High School,Good,0
+48,85314.0,11,5456,51505.0,0,4,49444.0,2,Self-employed,High School,Poor,1
+46,63039.0,12,103793,41118.0,0,11,70811.0,4,Contract,Diploma,Poor,1
+45,45585.0,8,102288,88948.0,1,9,79779.0,1,Self-employed,Master,Average,0
+35,131892.0,6,32828,4677.0,2,8,50555.0,1,Salaried,Bachelor,Good,1
+59,103184.0,20,112281,67746.0,0,13,32060.0,5,Salaried,Bachelor,Good,1
+24,120671.0,6,30442,59352.0,1,6,37295.0,3,Salaried,Bachelor,Average,1
+34,133584.0,9,37719,66413.0,2,8,67080.0,3,Salaried,Bachelor,Average,1
+25,177053.0,7,122739,14872.0,1,1,37571.0,1,Contract,High School,Good,1
+34,148048.0,16,146974,114305.0,1,16,44461.0,0,Salaried,Diploma,Poor,1
+59,118498.0,5,43383,28616.0,3,19,20356.0,0,Salaried,Bachelor,Good,1
+35,160402.0,11,138594,81414.0,1,6,79265.0,4,Salaried,Bachelor,Good,1
+57,95356.0,0,137427,89654.0,0,10,54159.0,0,Self-employed,Bachelor,Poor,0
+40,177533.0,1,116564,41278.0,0,18,30435.0,1,Salaried,Master,Good,1
+48,141352.0,10,25308,15690.0,1,10,49295.0,6,Salaried,Bachelor,Good,1
+39,123443.0,14,48416,35600.0,1,10,35684.0,2,Contract,Diploma,Average,1
+31,164340.0,13,103268,96834.0,0,13,17460.0,5,Salaried,High School,Poor,1
+51,101443.0,4,149887,108780.0,1,17,70732.0,2,Salaried,Diploma,Good,1
+59,134753.0,26,123099,112429.0,3,10,71539.0,6,Salaried,Bachelor,Average,1
+31,64126.0,7,65939,27157.0,1,3,67782.0,5,Salaried,Master,Good,1
+52,174041.0,4,39112,72784.0,2,9,33267.0,3,Self-employed,Master,Good,1
+31,118986.0,13,144249,18124.0,0,13,24973.0,4,Contract,Diploma,Good,1
+49,144685.0,24,45050,85243.0,0,5,9680.0,2,Salaried,Master,Good,1
+52,92639.0,18,54622,49904.0,0,11,60134.0,6,Contract,Bachelor,Good,1
+38,158422.0,3,144856,85631.0,3,13,30263.0,2,Self-employed,Bachelor,Good,1
+50,30016.0,3,86441,82215.0,1,1,72025.0,5,Salaried,Bachelor,Average,0
+31,36484.0,12,43366,119137.0,1,11,70370.0,4,Salaried,High School,Average,0
+24,100153.0,6,5775,58637.0,0,6,15485.0,4,Salaried,High School,Average,1
+24,136651.0,6,67344,40984.0,1,4,,2,Contract,Master,Average,0
+38,149094.0,8,147971,63211.0,2,11,16381.0,5,Salaried,Bachelor,Good,1
+57,89294.0,5,67715,19542.0,3,14,42289.0,5,Salaried,Bachelor,Good,1
+26,123247.0,8,106432,13411.0,3,0,41071.0,5,Self-employed,Bachelor,Good,1
+39,107603.0,4,41690,62300.0,0,13,76770.0,5,Contract,Bachelor,Average,1
+49,,0,117464,99049.0,0,5,54641.0,1,Self-employed,Master,Good,1
+29,123965.0,11,117490,63990.0,1,8,70768.0,6,Self-employed,High School,Good,1
+49,85529.0,12,93204,93831.0,0,13,50089.0,5,Salaried,High School,Good,1
+33,175111.0,15,116918,21349.0,0,0,67067.0,1,Contract,Bachelor,Good,1
+53,35375.0,27,88929,53927.0,1,0,69057.0,6,Salaried,Bachelor,Poor,1
+44,177502.0,26,59856,73573.0,3,9,69619.0,3,Salaried,High School,Average,1
+42,42950.0,8,111993,41721.0,2,19,36460.0,2,Contract,High School,Good,1
+28,64693.0,10,126094,1694.0,1,0,34259.0,1,Salaried,Diploma,Average,1
+39,,19,126954,8813.0,1,16,78877.0,2,Salaried,Diploma,Average,1
+55,136868.0,2,35896,111321.0,2,1,61979.0,0,Self-employed,High School,Good,1
+21,175198.0,3,103106,72617.0,1,3,73881.0,4,Salaried,Diploma,Good,0
+51,139498.0,4,5624,31749.0,2,9,48723.0,4,Salaried,Bachelor,Average,1
+40,121196.0,18,87940,31058.0,0,9,74748.0,4,Self-employed,Master,Good,1
+49,74132.0,24,87819,4747.0,1,1,59257.0,3,Self-employed,Master,Good,1
+47,18763.0,7,57707,113374.0,3,15,60950.0,2,Self-employed,Bachelor,Good,0
+38,38067.0,8,149142,12990.0,2,5,19156.0,5,Salaried,Diploma,Average,1
+33,66240.0,14,133030,91135.0,1,15,47950.0,6,Salaried,Master,Poor,1
+46,24633.0,27,10603,28830.0,1,13,60123.0,0,Self-employed,Bachelor,Average,1
+26,100325.0,6,35281,40275.0,1,8,62314.0,2,Salaried,Bachelor,Good,1
+44,143930.0,20,35159,32869.0,1,6,76862.0,6,Salaried,Diploma,Good,1
+24,174048.0,6,135146,98943.0,0,6,30194.0,6,Salaried,Diploma,Average,1
+46,97331.0,3,80243,3937.0,2,20,,6,Salaried,Bachelor,Average,1
+46,159751.0,22,110687,42275.0,1,19,77742.0,1,Salaried,Bachelor,Poor,1
+24,177658.0,6,122442,33522.0,0,6,78976.0,3,Self-employed,High School,Average,1
+51,157293.0,17,116305,32754.0,0,4,19311.0,0,Contract,Master,Good,1
+37,93326.0,5,17911,23153.0,3,12,34000.0,6,Salaried,Bachelor,Average,1
+52,70692.0,4,25348,109494.0,0,8,76159.0,3,Self-employed,Bachelor,Poor,1
+22,176423.0,4,62309,45434.0,1,4,20779.0,1,Salaried,Diploma,Average,1
+28,57189.0,10,54065,50185.0,3,10,63954.0,0,Salaried,Bachelor,Average,1
+40,84675.0,17,113326,46220.0,2,18,14309.0,5,Self-employed,Bachelor,Good,1
+28,29993.0,7,27654,117627.0,1,3,19195.0,5,Salaried,High School,Average,0
+34,146577.0,15,58874,40681.0,1,6,64087.0,6,Contract,Bachelor,Good,1
+47,123274.0,9,39303,41002.0,3,14,50953.0,6,Salaried,Bachelor,Good,1
+26,31740.0,8,32381,39351.0,1,8,47057.0,5,Salaried,Master,Average,0
+48,53952.0,24,30056,39236.0,0,7,69388.0,5,Salaried,Diploma,Poor,1
+25,107985.0,7,33347,10767.0,0,2,28728.0,5,Salaried,Master,Poor,1
+28,105547.0,0,86834,72513.0,1,2,43244.0,6,Contract,Bachelor,Good,1
+44,147934.0,26,64457,3024.0,0,14,51025.0,3,Self-employed,High School,Good,0
+52,61108.0,0,68117,27114.0,2,9,60750.0,5,Salaried,High School,Good,1
+27,167802.0,9,74515,24253.0,1,9,30575.0,5,Salaried,Diploma,Average,1
+32,90005.0,0,112454,34978.0,2,14,52889.0,0,Self-employed,Diploma,Average,1
+58,151259.0,16,129963,90798.0,5,0,39178.0,4,Self-employed,Bachelor,Poor,0
+60,56617.0,3,81333,71940.0,2,15,46105.0,2,Salaried,Bachelor,Good,1
+44,23989.0,2,98127,118898.0,0,5,69838.0,0,Salaried,Diploma,Average,0
+38,26918.0,20,112091,42144.0,0,19,35130.0,1,Salaried,Master,Average,1
+34,78378.0,16,105108,111424.0,3,16,55444.0,0,Salaried,Diploma,Good,1
+45,172411.0,3,24468,5389.0,0,10,75708.0,6,Salaried,Bachelor,Poor,1
+44,25889.0,26,147534,60506.0,1,6,62418.0,5,Salaried,Master,Average,0
+32,77774.0,9,28897,95862.0,5,4,79166.0,0,Salaried,Master,Good,1
+21,35703.0,3,64717,63819.0,0,3,49179.0,4,Salaried,Bachelor,Good,0
+27,168914.0,9,99628,111998.0,0,9,26864.0,4,Salaried,Bachelor,Poor,1
+59,127400.0,14,63486,37750.0,1,3,79364.0,3,Contract,High School,Average,1
+37,141556.0,5,40254,3999.0,0,9,53699.0,4,Self-employed,High School,Average,1
+40,133548.0,13,138886,92873.0,1,10,23864.0,6,Salaried,Bachelor,Average,1
+39,124438.0,6,15371,8160.0,4,14,29472.0,3,Salaried,High School,Good,1
+52,143343.0,1,40652,91771.0,1,17,25409.0,4,Salaried,Bachelor,Average,0
+23,19316.0,5,148985,88010.0,1,5,67687.0,3,Contract,Diploma,Poor,0
+24,158204.0,6,110823,101313.0,0,6,12849.0,2,Salaried,Master,Good,1
+32,137858.0,14,17611,57471.0,2,11,60753.0,6,Salaried,Master,Average,1
+40,137788.0,10,114413,107461.0,1,9,46997.0,2,Contract,Bachelor,Good,1
+47,81737.0,10,145579,20379.0,1,3,11437.0,5,Self-employed,Bachelor,Good,1
+40,147741.0,22,19179,52122.0,0,4,51389.0,4,Self-employed,Diploma,Good,1
+38,79854.0,20,65037,14620.0,0,9,61733.0,4,Salaried,High School,Poor,1
+58,25932.0,25,72894,92025.0,1,0,59721.0,5,Salaried,Bachelor,Good,0
+27,165067.0,9,23996,85713.0,1,6,45110.0,5,Self-employed,Bachelor,Good,1
+43,55994.0,25,34081,96768.0,0,9,30823.0,3,Salaried,Bachelor,Average,1
+42,34507.0,24,30194,91721.0,1,9,18124.0,4,Self-employed,Bachelor,Good,0
+39,118748.0,12,31879,37015.0,2,17,6907.0,3,Self-employed,Bachelor,Average,1
+53,55852.0,12,63512,8168.0,1,20,32607.0,2,Salaried,Diploma,Poor,1
+31,157017.0,9,72255,111509.0,0,13,52785.0,5,Salaried,Diploma,Good,1
+59,89887.0,7,39508,59138.0,3,1,8786.0,6,Salaried,Bachelor,Good,1
+34,18729.0,16,46967,11321.0,1,8,79904.0,4,Salaried,Bachelor,Poor,0
+42,172179.0,22,32874,111248.0,1,15,49360.0,5,Self-employed,Master,Good,1
+41,101370.0,23,120429,119313.0,1,12,27796.0,5,Self-employed,Bachelor,Good,1
+54,60602.0,5,35704,53460.0,3,9,77196.0,2,Salaried,Bachelor,Poor,0
+38,127721.0,15,136603,92411.0,1,9,19611.0,0,Self-employed,Bachelor,Poor,0
+32,103959.0,6,83134,4355.0,0,8,76863.0,2,Salaried,High School,Average,1
+21,22796.0,3,121395,11192.0,1,3,26851.0,5,Self-employed,Bachelor,Average,1
+35,141063.0,8,97277,33188.0,0,3,34100.0,5,Salaried,Bachelor,Poor,1
+54,83020.0,4,43574,78748.0,0,10,37481.0,3,Self-employed,Bachelor,Average,1
+21,131371.0,3,92198,16010.0,1,3,79618.0,5,Self-employed,High School,Average,1
+56,163093.0,27,44749,,0,14,24567.0,0,Salaried,Master,Average,1
+42,116919.0,24,22191,80253.0,1,18,77993.0,4,Salaried,Master,Average,1
+26,126801.0,2,41935,92423.0,2,8,31675.0,4,Contract,High School,Good,0
+33,59253.0,10,44968,88706.0,2,8,27103.0,3,Salaried,Diploma,Good,0
+43,56500.0,4,24580,95907.0,0,19,53227.0,5,Self-employed,Diploma,Good,1
+33,85230.0,9,8423,96342.0,0,13,57338.0,3,Contract,Bachelor,Good,1
+25,156151.0,7,141851,,0,7,31532.0,3,Contract,Bachelor,Good,0
+47,102919.0,8,79446,62330.0,3,0,15921.0,4,Salaried,Diploma,Good,1
+47,74381.0,2,63297,102824.0,2,0,35308.0,5,Self-employed,Bachelor,Average,0
+25,144297.0,7,139844,41763.0,2,4,45991.0,1,Contract,Bachelor,Good,1
+32,156242.0,1,37580,11746.0,2,4,8962.0,2,Salaried,Bachelor,Good,1
+30,164211.0,7,63416,90236.0,1,12,11820.0,2,Salaried,Bachelor,Good,1
+47,66429.0,0,127768,33111.0,0,10,73928.0,1,Salaried,Bachelor,Good,1
+50,132962.0,2,96645,117463.0,0,20,8653.0,2,Self-employed,Bachelor,Average,1
+50,113632.0,13,62883,49701.0,2,11,36109.0,2,Salaried,Diploma,Good,1
+58,90733.0,26,42095,102216.0,0,18,62528.0,2,Salaried,Bachelor,Good,1
+51,,24,10091,5094.0,0,11,30282.0,2,Salaried,Master,Average,1
+33,36557.0,3,17332,79108.0,0,7,42613.0,3,Self-employed,Bachelor,Good,0
+25,62521.0,1,28481,53786.0,2,7,12399.0,4,Salaried,Master,Good,0
+45,107046.0,10,119060,55512.0,1,9,64789.0,2,Contract,Bachelor,Average,1
+57,161623.0,20,97691,31825.0,0,5,52930.0,5,Self-employed,Bachelor,Average,1
+60,158348.0,23,67853,116544.0,0,9,69023.0,3,Contract,Diploma,Average,1
+30,48390.0,12,118522,47128.0,6,12,69923.0,5,Contract,Bachelor,Average,1
+30,128050.0,10,28313,102058.0,0,7,31959.0,0,Salaried,Diploma,Poor,1
+22,31739.0,4,35585,51012.0,0,4,9045.0,1,Self-employed,High School,Good,1
+26,127352.0,0,61946,5793.0,0,8,31630.0,3,Salaried,Diploma,Average,1
+43,73392.0,4,138023,105530.0,0,8,16750.0,2,Contract,High School,Average,1
+42,90875.0,2,94064,22213.0,1,6,45464.0,3,Salaried,Master,Good,1
+35,134258.0,17,128395,32441.0,2,8,16832.0,1,Self-employed,Master,Poor,0
+33,86832.0,8,40983,103333.0,1,15,74221.0,3,Self-employed,Bachelor,Good,1
+54,148804.0,25,128016,107250.0,0,3,50568.0,4,Salaried,High School,Poor,1
+39,104440.0,17,15509,110011.0,0,20,24724.0,5,Self-employed,Master,Average,1
+53,179797.0,16,38011,51116.0,1,8,74171.0,1,Salaried,Bachelor,Good,1
+59,121395.0,14,80839,90837.0,3,17,62957.0,2,Salaried,Diploma,Good,0
+33,66010.0,15,12327,39337.0,2,15,38395.0,3,Salaried,Bachelor,Poor,0
+29,143597.0,1,129448,88847.0,2,11,16841.0,3,Salaried,Bachelor,Average,0
+59,84087.0,2,130777,60301.0,0,19,31442.0,5,Self-employed,High School,Good,1
+46,104535.0,13,83513,6235.0,1,3,49217.0,2,Contract,Bachelor,Good,1
+32,40165.0,12,49341,50129.0,0,12,62672.0,4,Salaried,Bachelor,Average,0
+45,37333.0,16,19349,56127.0,0,2,25382.0,6,Salaried,Diploma,Good,1
+41,111129.0,22,94743,30884.0,1,6,60950.0,2,Contract,Bachelor,Average,0
+57,48244.0,18,82962,44936.0,1,0,26930.0,5,Self-employed,Bachelor,Average,0
+31,179608.0,7,115195,60322.0,3,13,24260.0,2,Salaried,Bachelor,Good,1
+60,156619.0,10,92368,5964.0,0,12,39079.0,2,Contract,Master,Average,1
+58,131543.0,23,23602,18216.0,1,15,17901.0,4,Salaried,Master,Good,1
+28,137022.0,6,22656,92014.0,4,3,35944.0,4,Self-employed,Bachelor,Poor,1
+27,114425.0,9,118222,42231.0,0,6,32478.0,3,Salaried,Bachelor,Poor,1
+42,27767.0,16,28058,73006.0,1,14,26723.0,1,Self-employed,Bachelor,Good,0
+22,81564.0,4,141085,67895.0,1,4,63395.0,0,Salaried,Bachelor,Good,1
+32,98320.0,14,20362,66146.0,1,14,30548.0,6,Salaried,High School,Good,1
+38,166279.0,14,110615,49609.0,0,1,57435.0,6,Self-employed,Bachelor,Poor,1
+59,53557.0,9,146409,57998.0,0,8,59302.0,6,Salaried,Bachelor,Good,0
+60,98500.0,11,68977,98870.0,1,0,55273.0,3,Salaried,Bachelor,Average,1
+27,73739.0,9,13223,115806.0,1,9,25930.0,6,Self-employed,Master,Poor,0
+56,39767.0,6,132119,30806.0,0,2,67378.0,3,Self-employed,Bachelor,Good,0
+24,34689.0,6,32159,80337.0,0,6,23505.0,0,Salaried,Bachelor,Average,0
+50,77191.0,6,81481,116373.0,2,3,26507.0,1,Salaried,High School,Good,1
+54,31352.0,20,147758,910.0,3,0,70750.0,1,Contract,High School,Average,0
+56,28881.0,23,112992,94167.0,2,18,31136.0,2,Salaried,Bachelor,Good,0
+29,74841.0,11,11715,59619.0,1,9,57580.0,6,Salaried,Bachelor,Poor,0
+56,50720.0,3,123974,116112.0,0,8,9133.0,2,Salaried,Diploma,Good,0
+25,107879.0,7,28380,69392.0,1,7,51460.0,4,Salaried,Diploma,Good,1
+41,20862.0,2,113656,100577.0,0,5,70288.0,1,Contract,Diploma,Average,0
+39,66893.0,10,95039,19921.0,0,14,58444.0,4,Salaried,Bachelor,Average,1
+33,91431.0,5,46739,17052.0,0,9,49100.0,3,Salaried,Bachelor,Average,0
+21,174030.0,3,66423,111190.0,2,3,68829.0,1,Salaried,Bachelor,Average,1
+51,120796.0,5,22087,63175.0,0,8,28061.0,3,Salaried,Diploma,Good,1
+34,160677.0,1,148084,67001.0,1,0,33882.0,0,Salaried,High School,Average,1
+47,73613.0,25,39559,20397.0,2,6,11136.0,6,Contract,High School,Good,1
+37,90853.0,1,49758,27207.0,3,12,57680.0,4,Self-employed,Bachelor,Good,0
+35,86102.0,12,77917,98188.0,1,2,59533.0,6,Salaried,High School,Poor,0
+56,161758.0,21,102495,36399.0,1,2,61602.0,6,Salaried,Diploma,Average,1
+24,173392.0,6,78265,70100.0,0,6,61407.0,1,Salaried,Master,Good,1
+50,173899.0,26,78245,37984.0,2,8,15426.0,4,Salaried,Bachelor,Good,1
+50,139818.0,4,89484,31614.0,0,2,55297.0,0,Self-employed,Bachelor,Poor,1
+36,99504.0,18,129366,19922.0,0,15,62487.0,6,Salaried,High School,Good,1
+31,105619.0,13,62290,111552.0,1,13,21079.0,5,Self-employed,Diploma,Good,0
+21,176843.0,3,125659,112808.0,3,0,41260.0,4,Contract,Master,Good,1
+58,64095.0,13,119100,13822.0,0,4,73578.0,6,Salaried,Bachelor,Good,1
+58,74166.0,28,144346,42390.0,0,7,36696.0,5,Contract,Bachelor,Good,1
+30,163314.0,12,137408,67664.0,1,12,61734.0,6,Salaried,Master,Poor,1
+22,80584.0,4,120736,45994.0,0,1,45246.0,0,Salaried,Bachelor,Good,1
+25,56085.0,7,40775,86525.0,1,7,54674.0,0,Self-employed,Diploma,Good,1
+23,108796.0,5,117273,31227.0,2,5,52362.0,6,Salaried,Bachelor,Average,0
+54,70705.0,30,111796,7061.0,2,2,54170.0,1,Salaried,High School,Average,1
+56,162322.0,29,46978,40432.0,2,18,63674.0,2,Self-employed,High School,Average,1
+27,165269.0,9,103306,71743.0,1,1,72923.0,0,Salaried,High School,Average,1
+50,67573.0,14,41680,21676.0,0,2,27879.0,4,Contract,Master,Average,1
+28,103786.0,5,80848,97908.0,0,10,74695.0,5,Salaried,Bachelor,Average,0
+35,177407.0,17,120529,1469.0,1,10,52462.0,5,Self-employed,Diploma,Average,1
+44,138256.0,6,32337,8103.0,2,9,50077.0,4,Salaried,Diploma,Average,1
+49,52931.0,14,53858,61060.0,1,14,30252.0,4,Salaried,Bachelor,Average,1
+55,113701.0,20,120309,61469.0,1,13,36833.0,3,Salaried,Master,Good,1
+22,,4,70800,35386.0,0,4,54220.0,3,Contract,Diploma,Average,1
+28,123857.0,8,144291,31027.0,2,0,32916.0,3,Salaried,Diploma,Average,0
+32,22051.0,7,6154,8377.0,2,11,27259.0,6,Contract,Master,Good,1
+33,66500.0,15,109666,79551.0,0,5,66612.0,1,Salaried,Master,Poor,1
+60,156448.0,0,123059,45483.0,0,16,36742.0,3,Salaried,Master,Good,1
+52,57102.0,17,138090,14241.0,0,10,53701.0,4,Salaried,Diploma,Good,1
+33,66550.0,15,27729,47981.0,1,2,8308.0,3,Salaried,High School,Poor,1
+59,70244.0,17,147707,112447.0,1,18,11717.0,0,Contract,Bachelor,Good,1
+40,46737.0,11,61880,31348.0,2,5,68765.0,2,Salaried,Diploma,Good,0
+41,43181.0,23,56047,,1,5,16521.0,4,Self-employed,Master,Good,1
+38,74216.0,11,56553,31049.0,2,19,64890.0,4,Salaried,High School,Poor,1
+26,159639.0,8,97543,22317.0,1,8,72614.0,5,Salaried,Bachelor,Good,1
+58,18248.0,14,100598,31277.0,1,18,41623.0,6,Self-employed,Master,Average,0
+21,63886.0,0,73720,38792.0,2,3,71453.0,4,Contract,Master,Average,0
+27,27821.0,9,15300,14473.0,1,9,37615.0,4,Self-employed,Bachelor,Average,1
+30,108961.0,1,148062,70516.0,1,2,76436.0,2,Salaried,Master,Poor,0
+32,58597.0,14,37205,40014.0,0,12,23546.0,2,Self-employed,High School,Average,1
+26,146300.0,8,18602,86168.0,3,6,37661.0,5,Self-employed,Bachelor,Good,1
+21,112773.0,3,91621,58919.0,3,3,34780.0,3,Salaried,High School,Poor,1
+48,144980.0,15,64794,53119.0,3,4,64021.0,5,Self-employed,Master,Good,1
+59,120855.0,19,94257,56519.0,0,4,9235.0,0,Salaried,Master,Good,1
+25,89019.0,7,131954,18755.0,0,7,67289.0,0,Self-employed,High School,Good,1
+32,157477.0,8,19112,85546.0,2,14,7733.0,1,Contract,High School,Average,1
+41,95154.0,12,46187,12498.0,2,13,29361.0,1,Contract,Bachelor,Good,1
+58,171890.0,8,79903,86584.0,0,7,50109.0,4,Self-employed,Diploma,Average,1
+48,179142.0,23,119230,119972.0,2,9,16755.0,4,Self-employed,Master,Good,1
+51,113422.0,3,92093,91680.0,4,11,42269.0,3,Self-employed,Diploma,Good,1
+44,127285.0,25,60503,54642.0,1,5,79780.0,2,Salaried,Bachelor,Good,1
+37,59417.0,10,93459,37737.0,1,10,66918.0,4,Salaried,Bachelor,Average,0
+28,149972.0,10,147097,104704.0,1,10,8236.0,0,Salaried,Bachelor,Good,1
+55,126798.0,4,74608,30863.0,1,5,49791.0,3,Salaried,High School,Good,1
+53,164214.0,11,133112,57885.0,0,12,50203.0,1,Contract,Master,Good,1
+22,61255.0,4,118094,92505.0,0,4,11048.0,0,Contract,Bachelor,Good,1
+49,145590.0,8,48691,110683.0,2,10,54116.0,1,Salaried,Bachelor,Average,1
+24,94185.0,4,41178,110515.0,2,6,44554.0,0,Salaried,Bachelor,Good,1
+50,47999.0,16,116678,10531.0,1,11,56453.0,3,Self-employed,Master,Good,1
+54,45734.0,5,35084,107792.0,0,16,28015.0,3,Salaried,Bachelor,Poor,0
+26,109072.0,8,53844,13682.0,1,4,24916.0,4,Self-employed,Bachelor,Good,1
+38,69751.0,13,39132,70137.0,4,12,60461.0,3,Contract,Bachelor,Good,1
+25,34506.0,7,92923,111556.0,1,7,59397.0,1,Salaried,Master,Average,0
+43,87198.0,19,47650,78577.0,0,6,17967.0,0,Salaried,Diploma,Average,1
+58,123774.0,20,100480,113700.0,1,8,22013.0,4,Salaried,Bachelor,Average,1
+24,69670.0,6,140553,41320.0,1,6,49391.0,6,Salaried,Bachelor,Good,1
+36,172767.0,2,125292,37766.0,1,7,67349.0,1,Salaried,Bachelor,Good,1
+59,144287.0,11,142454,39146.0,0,12,20933.0,1,Salaried,Master,Good,1
+33,101063.0,0,8545,42620.0,0,3,22214.0,2,Salaried,Master,Good,1
+26,169414.0,0,71041,81937.0,2,8,65776.0,1,Salaried,Bachelor,Good,1
+40,88141.0,6,36923,54294.0,2,12,57556.0,1,Salaried,Bachelor,Poor,1
+41,40626.0,18,138091,88492.0,3,15,72770.0,3,Self-employed,Master,Average,1
+47,23806.0,27,108228,49939.0,0,12,63973.0,5,Salaried,Master,Good,0
+33,169960.0,15,51432,36927.0,4,7,76543.0,4,Contract,Bachelor,Good,1
+59,173484.0,20,86711,22805.0,2,7,19982.0,6,Salaried,High School,Average,1
+41,137759.0,23,92788,66127.0,0,14,26123.0,2,Salaried,Diploma,Good,1
+32,34686.0,5,76863,107805.0,0,14,23611.0,3,Salaried,Master,Good,0
+59,65571.0,26,73781,103076.0,3,2,10102.0,2,Self-employed,Bachelor,Good,1
+57,24654.0,27,13005,30397.0,1,17,63654.0,0,Salaried,Bachelor,Average,1
+40,26302.0,2,70607,57316.0,1,17,54970.0,2,Salaried,Bachelor,Average,1
+21,57863.0,3,55500,84633.0,1,2,12364.0,1,Salaried,Bachelor,Good,0
+44,110687.0,25,123647,73491.0,1,2,20662.0,3,Contract,Bachelor,Good,1
+43,28615.0,14,130440,8058.0,4,14,20116.0,1,Salaried,Bachelor,Average,1
+26,177506.0,8,113811,70927.0,3,8,35817.0,5,Salaried,Diploma,Average,1
+46,91729.0,28,9479,4650.0,3,8,39709.0,5,Contract,Bachelor,Average,1
+54,60743.0,14,126978,13980.0,1,13,27385.0,6,Salaried,Bachelor,Good,0
+25,101606.0,1,62483,78448.0,0,7,74834.0,0,Salaried,Master,Average,1
+49,146005.0,10,65373,12305.0,2,6,21745.0,0,Self-employed,Diploma,Poor,0
+26,68636.0,6,142047,40682.0,3,4,47579.0,6,Salaried,Bachelor,Average,0
+50,25697.0,14,130758,70611.0,2,20,38411.0,5,Salaried,High School,Good,0
+37,26255.0,18,12377,78655.0,0,5,34688.0,4,Salaried,High School,Average,0
+21,156022.0,3,57176,53488.0,2,3,67109.0,2,Salaried,Bachelor,Good,0
+59,36079.0,6,113708,11282.0,2,9,78400.0,3,Contract,High School,Good,1
+27,120961.0,9,83133,95893.0,0,9,6434.0,3,Self-employed,Master,Good,1
+44,80290.0,21,42354,113983.0,6,5,40315.0,5,Self-employed,Master,Poor,0
+28,143958.0,0,81093,106647.0,0,10,14817.0,3,Salaried,High School,Good,1
+58,27805.0,6,130659,89822.0,2,14,38096.0,0,Self-employed,Master,Poor,0
+50,163443.0,27,37377,48266.0,1,4,51661.0,4,Self-employed,Bachelor,Good,1
+53,131107.0,3,113180,105152.0,1,10,36462.0,5,Salaried,Bachelor,Good,1
+38,90783.0,12,111541,58581.0,1,1,28873.0,2,Contract,Master,Good,1
+39,51537.0,6,133428,16376.0,0,4,29101.0,0,Salaried,Bachelor,Average,1
+46,176297.0,3,48201,102066.0,2,20,28190.0,0,Self-employed,High School,Good,1
+52,66935.0,13,36309,38419.0,0,10,30101.0,5,Salaried,High School,Good,1
+54,97463.0,16,84410,112645.0,1,13,33675.0,3,Salaried,Bachelor,Good,1
+21,81848.0,3,82037,44201.0,2,3,56900.0,3,Self-employed,Master,Good,1
+47,55349.0,2,64382,104328.0,1,14,13104.0,6,Self-employed,Bachelor,Good,0
+25,85491.0,4,117994,64461.0,1,7,9021.0,0,Salaried,Bachelor,Good,0
+32,42540.0,14,120862,56087.0,2,14,44239.0,1,Salaried,High School,Good,0
+54,18269.0,26,40626,35624.0,1,10,56455.0,5,Self-employed,Master,Poor,0
+31,64979.0,5,120352,100285.0,2,13,25145.0,3,Salaried,Diploma,Good,0
+52,36155.0,9,38458,7275.0,3,6,20889.0,0,Salaried,Bachelor,Good,1
+39,85194.0,10,64107,56265.0,1,18,52232.0,4,Self-employed,Bachelor,Good,1
+30,157768.0,11,8941,44265.0,3,3,34431.0,0,Salaried,Diploma,Good,1
+34,44336.0,7,54357,65207.0,2,16,60469.0,5,Salaried,High School,Average,1
+42,18199.0,1,143985,30546.0,1,18,,5,Salaried,Bachelor,Good,0
+51,35997.0,16,69171,79751.0,4,2,14962.0,5,Contract,Diploma,Good,0
+45,100323.0,11,107953,46310.0,1,14,46904.0,3,Salaried,Bachelor,Average,1
+58,62524.0,10,20649,22575.0,0,20,35044.0,1,Self-employed,Bachelor,Good,1
+55,97299.0,8,97156,23635.0,1,12,59972.0,6,Contract,Diploma,Poor,0
+51,22738.0,28,58878,83581.0,1,7,43453.0,3,Self-employed,Bachelor,Poor,0
+45,71961.0,18,112879,31427.0,1,18,32244.0,4,Salaried,High School,Good,1
+32,84442.0,12,139563,36870.0,1,10,17816.0,0,Salaried,Diploma,Good,1
+37,87875.0,6,82084,75234.0,2,2,18092.0,4,Salaried,Bachelor,Good,1
+25,107288.0,7,19910,39574.0,3,5,61933.0,4,Self-employed,Bachelor,Good,1
+35,144454.0,17,74039,46578.0,2,14,22761.0,2,Contract,Bachelor,Good,1
+58,93691.0,1,22850,29337.0,1,9,43181.0,5,Self-employed,High School,Average,0
+38,154275.0,20,70182,41446.0,1,4,66541.0,0,Salaried,Bachelor,Good,1
+25,103817.0,7,13866,83134.0,0,7,72440.0,5,Salaried,Bachelor,Good,0
+47,60176.0,3,97864,64069.0,5,2,25806.0,6,Contract,Master,Good,0
+59,55101.0,23,50015,119705.0,0,4,14111.0,3,Salaried,Bachelor,Poor,0
+55,70243.0,3,34222,92624.0,1,9,63328.0,0,Self-employed,Master,Poor,1
+31,114789.0,1,7509,2019.0,1,0,56859.0,3,Salaried,High School,Good,1
+39,57282.0,3,133769,45464.0,0,8,30509.0,3,Self-employed,Bachelor,,1
+42,166097.0,14,126394,34782.0,0,19,49924.0,3,Self-employed,Bachelor,Good,1
+30,95738.0,12,122704,70502.0,0,12,19966.0,1,Salaried,Bachelor,Average,1
+31,157851.0,12,13429,31879.0,0,13,57851.0,4,Salaried,Bachelor,Average,1
+30,128688.0,3,55687,115945.0,1,6,59821.0,1,Self-employed,Bachelor,Poor,1
+60,72003.0,6,145846,35925.0,3,1,28153.0,3,Salaried,Master,Good,1
+50,54977.0,26,88898,62638.0,1,17,40672.0,4,Salaried,Diploma,Good,1
+54,138519.0,29,23631,14749.0,2,7,30721.0,4,Salaried,Master,Poor,1
+53,71579.0,23,25449,109176.0,0,15,8314.0,5,Salaried,Bachelor,Good,1
+59,57992.0,3,43151,109422.0,2,2,15421.0,6,Self-employed,Bachelor,Good,0
+25,168723.0,7,145991,95241.0,3,7,77036.0,5,Salaried,Bachelor,Average,0
+56,96186.0,21,29593,42195.0,0,12,39746.0,5,Salaried,Diploma,Average,1
+23,25868.0,5,135920,7046.0,0,5,16933.0,6,Contract,Master,Average,0
+40,98152.0,4,103312,85316.0,2,2,9276.0,1,Salaried,Master,Average,1
+44,,26,138676,51492.0,1,8,32152.0,2,Salaried,Master,Average,1
+35,157963.0,13,124772,118846.0,1,17,78729.0,3,Self-employed,Master,Good,1
+26,133273.0,1,53163,83798.0,2,8,34475.0,3,Contract,Bachelor,Average,1
+28,49000.0,6,125045,64636.0,0,10,79961.0,4,Self-employed,Bachelor,Average,0
+53,42373.0,12,29524,118406.0,1,3,42218.0,0,Self-employed,Master,Poor,0
+33,115782.0,1,47190,96057.0,0,15,62533.0,0,Salaried,High School,Good,1
+33,25674.0,10,35707,55005.0,1,5,64123.0,5,Salaried,Master,Good,0
+57,69680.0,14,24309,2262.0,1,12,8084.0,5,Contract,Bachelor,Average,1
+26,40389.0,8,18050,11134.0,1,8,6450.0,2,Contract,Bachelor,Good,1
+57,21331.0,2,32173,53246.0,0,13,74263.0,2,Salaried,Bachelor,Good,0
+57,166850.0,17,22416,67441.0,1,9,75003.0,3,Salaried,Bachelor,Average,1
+44,32551.0,26,60162,3618.0,1,3,15814.0,3,Salaried,High School,Good,1
+27,19500.0,9,15339,15187.0,0,7,53803.0,1,Salaried,Bachelor,Good,1
+27,169129.0,9,13885,84516.0,2,9,74357.0,3,Contract,Bachelor,Good,1
+32,48508.0,5,148525,90183.0,0,4,76348.0,5,Self-employed,Diploma,Good,0
+44,150283.0,24,17715,3577.0,3,13,27932.0,5,Salaried,Diploma,Average,1
+27,23067.0,9,15738,60921.0,1,9,66487.0,5,Salaried,Bachelor,Good,1
+39,42876.0,10,9365,9717.0,0,6,53829.0,4,Salaried,Diploma,Good,1
+25,35922.0,7,24218,86812.0,1,7,74660.0,6,Salaried,Master,Good,0
+42,132415.0,16,81548,100089.0,1,7,16857.0,1,Self-employed,High School,Good,1
+21,118464.0,3,124952,104324.0,0,3,50474.0,0,Salaried,Bachelor,Good,1
+49,95031.0,8,111560,71781.0,1,11,7812.0,0,Salaried,Diploma,Good,1
+23,57145.0,5,89135,75474.0,1,5,32441.0,6,Self-employed,Bachelor,Good,0
+28,32395.0,10,17328,111191.0,1,10,6844.0,4,Contract,Bachelor,Good,0
+27,110212.0,9,117291,73493.0,0,9,38776.0,1,Salaried,Bachelor,Good,1
+54,55375.0,24,10401,53553.0,1,13,66021.0,5,Salaried,Bachelor,Good,1
+23,113612.0,5,96482,90549.0,1,5,54695.0,2,Salaried,Bachelor,Good,0
+38,129370.0,20,64353,70901.0,0,5,29448.0,4,Salaried,Diploma,Good,1
+44,155609.0,18,132916,101095.0,0,5,37593.0,1,Salaried,Bachelor,Good,1
+41,98026.0,14,49592,62964.0,2,10,33191.0,0,Self-employed,Bachelor,Good,1
+48,18768.0,3,97578,104287.0,1,13,60144.0,1,Salaried,Bachelor,Good,0
+53,63468.0,20,68799,5383.0,1,13,25699.0,1,Salaried,Bachelor,Average,0
+36,156246.0,9,80708,4371.0,2,3,12796.0,3,Contract,Bachelor,Good,1
+54,104387.0,6,141126,11884.0,0,16,43498.0,0,Salaried,Bachelor,Average,1
+33,118297.0,5,108349,66743.0,0,7,67419.0,1,Self-employed,Diploma,Average,1
+60,92167.0,30,65111,85077.0,0,18,41308.0,3,Self-employed,Diploma,Good,1
+41,44364.0,3,69872,25952.0,2,15,21110.0,2,Self-employed,High School,Good,1
+50,163266.0,24,107163,18689.0,2,20,9408.0,4,Self-employed,Bachelor,Good,1
+56,143216.0,26,55179,103242.0,0,13,75853.0,4,Self-employed,Master,Good,1
+52,179220.0,0,29339,90065.0,1,11,62294.0,6,Self-employed,Bachelor,Good,1
+55,156590.0,18,72810,77808.0,2,3,17510.0,5,Salaried,Bachelor,Good,1
+42,65163.0,17,14892,58604.0,5,8,11470.0,1,Salaried,Diploma,Average,1
+22,59190.0,4,29608,50427.0,3,4,15558.0,4,Salaried,Master,Good,0
+40,58253.0,20,66003,2463.0,2,8,33863.0,4,Salaried,High School,Average,1
+28,166845.0,10,120503,22572.0,3,1,66079.0,4,Salaried,Bachelor,Average,1
+56,108224.0,13,118306,107640.0,4,5,17830.0,5,Salaried,Master,Good,0
+30,91622.0,12,42802,40683.0,1,12,66584.0,1,Salaried,Bachelor,Poor,1
+30,174859.0,12,66179,84545.0,1,12,6139.0,2,Salaried,High School,Poor,1
+30,115755.0,12,27262,84454.0,2,12,60668.0,5,Salaried,Diploma,Good,1
+46,165328.0,11,114511,37130.0,0,19,26899.0,6,Self-employed,Bachelor,Good,1
+43,177514.0,25,40721,24523.0,0,11,77080.0,0,Salaried,Diploma,Good,1
+58,30870.0,24,120932,83000.0,2,11,41213.0,3,Self-employed,Bachelor,Good,0
+37,76569.0,19,127101,11230.0,1,16,26020.0,1,Salaried,Bachelor,Good,1
+32,136931.0,14,104918,59379.0,1,1,23976.0,1,Contract,Diploma,Good,1
+22,149732.0,4,52879,106564.0,0,4,67172.0,0,Self-employed,Diploma,Good,1
+21,42054.0,3,143172,85360.0,0,3,35822.0,3,Salaried,Bachelor,Average,0
+35,69580.0,10,104477,91706.0,1,16,32051.0,4,Contract,Bachelor,Good,0
+58,106804.0,8,98647,9992.0,2,16,60440.0,3,Salaried,Bachelor,Good,1
+41,147473.0,13,129180,23975.0,0,13,45768.0,2,Self-employed,Bachelor,Good,1
+56,36300.0,30,132813,33012.0,0,13,55124.0,5,Self-employed,High School,Average,1
+25,115319.0,7,16273,35077.0,1,7,38974.0,4,Salaried,Bachelor,Average,1
+24,66024.0,6,132825,,2,6,10736.0,6,Self-employed,Bachelor,Good,0
+54,53049.0,14,115929,116649.0,0,4,6432.0,2,Salaried,Bachelor,Average,0
+25,101495.0,7,34945,19794.0,0,5,8893.0,1,Salaried,Bachelor,Good,1
+23,85072.0,5,49611,84982.0,2,5,48510.0,3,Salaried,Master,Average,1
+37,120985.0,10,114137,70410.0,4,12,44008.0,3,Salaried,Bachelor,Average,1
+57,69457.0,17,36410,73263.0,3,4,61316.0,3,Salaried,Bachelor,Good,0
+48,151371.0,11,70600,25758.0,0,18,72204.0,5,Self-employed,Bachelor,Average,1
+24,30653.0,6,104891,36915.0,2,6,18917.0,0,Salaried,Bachelor,Poor,1
+54,157625.0,30,99321,72780.0,2,13,76840.0,3,Salaried,Diploma,Average,1
+54,22833.0,10,136921,35895.0,3,4,74943.0,3,Self-employed,Bachelor,Good,1
+53,137215.0,2,21172,83294.0,1,19,51579.0,1,Salaried,Master,Average,1
+57,74129.0,11,47778,,0,4,45250.0,4,Salaried,Diploma,Good,1
+30,80100.0,12,147808,8738.0,1,9,19073.0,5,Self-employed,Master,Average,1
+60,21083.0,2,87481,87418.0,0,18,19190.0,3,Contract,Master,Average,0
+33,131740.0,9,41062,74011.0,2,10,7381.0,0,Salaried,Bachelor,Good,1
+53,44809.0,5,47026,5181.0,2,5,53800.0,0,Salaried,Master,Good,1
+44,124784.0,15,54186,107885.0,0,1,38053.0,2,Self-employed,High School,Good,1
+52,135480.0,22,85371,582.0,0,7,20202.0,4,Contract,High School,Good,1
+46,154929.0,28,46258,114667.0,1,14,15904.0,2,Salaried,Diploma,Good,1
+46,132711.0,12,95170,87540.0,0,15,10701.0,2,Salaried,Bachelor,Good,1
+45,66843.0,26,69564,118577.0,0,4,53431.0,6,Salaried,Bachelor,Average,1
+52,137650.0,6,93499,113865.0,4,3,56714.0,0,Self-employed,Master,Good,0
+50,151804.0,24,27492,37575.0,0,14,52741.0,0,Contract,Diploma,Good,1
+26,69379.0,8,95414,90781.0,1,3,14191.0,1,Self-employed,Diploma,Average,1
+54,38116.0,23,139088,25309.0,1,1,9060.0,6,Salaried,Bachelor,Good,1
+42,162184.0,23,24586,56597.0,1,10,13860.0,3,Self-employed,High School,Good,1
+33,41966.0,15,52479,28813.0,3,11,61619.0,1,Self-employed,Bachelor,Average,1
+41,114201.0,7,105564,58325.0,1,5,60756.0,2,Salaried,Bachelor,Poor,0
+59,56277.0,16,94524,104681.0,2,4,27817.0,6,Self-employed,Master,Average,0
+55,38416.0,25,102839,52336.0,2,4,10085.0,4,Salaried,Bachelor,Good,1
+54,143780.0,30,86137,11087.0,1,7,29660.0,1,Salaried,High School,Good,1
+39,41282.0,21,103975,38957.0,1,0,65923.0,1,Self-employed,High School,Poor,1
+52,126577.0,5,93361,94383.0,0,0,16612.0,0,Salaried,High School,Average,1
+36,130282.0,18,15740,62606.0,2,7,64915.0,5,Contract,Master,Average,1
+48,27756.0,3,113936,67222.0,1,0,40287.0,0,Salaried,Bachelor,Average,0
+46,46017.0,20,69792,51738.0,2,6,16463.0,2,Salaried,Bachelor,Good,0
+30,146687.0,12,12460,35133.0,2,12,75109.0,2,Salaried,Diploma,Good,1
+31,100181.0,1,64310,71780.0,2,0,44360.0,4,Salaried,Master,Average,1
+23,37659.0,5,68101,75971.0,0,5,55695.0,4,Salaried,Diploma,Poor,0
+26,178668.0,8,17573,107775.0,1,8,13150.0,5,Self-employed,Bachelor,Good,1
+38,60928.0,20,149433,74134.0,1,12,33501.0,2,Salaried,Bachelor,Average,1
+40,18649.0,12,37243,119402.0,1,13,52810.0,2,Salaried,Diploma,Good,0
+27,167715.0,3,52945,99190.0,2,9,53756.0,2,Self-employed,Bachelor,Poor,0
+37,20685.0,19,68940,9449.0,0,1,10656.0,0,Salaried,Diploma,Good,1
+45,107644.0,27,125714,47061.0,1,3,50716.0,5,Self-employed,Bachelor,Average,1
+30,178880.0,12,112722,46162.0,1,6,75892.0,3,Salaried,Master,Good,1
+34,111605.0,16,116790,362.0,2,14,64193.0,3,Salaried,Bachelor,Average,1
+35,112712.0,0,39374,21684.0,0,17,21372.0,6,Self-employed,Master,Average,1
+41,80884.0,19,127588,91463.0,1,19,73533.0,1,Self-employed,Bachelor,Good,1
+35,38559.0,1,125314,42254.0,1,12,56534.0,6,Self-employed,Diploma,Average,0
+50,110776.0,29,72260,17745.0,0,8,10214.0,4,Salaried,Bachelor,Poor,1
+34,163363.0,16,84141,34497.0,0,8,15493.0,1,Salaried,Bachelor,Poor,1
+38,32758.0,20,10385,32964.0,2,1,74174.0,4,Self-employed,Diploma,Good,1
+36,160622.0,17,115261,20944.0,1,9,21510.0,5,Self-employed,Bachelor,Average,1
+28,85237.0,2,144334,12143.0,1,10,13160.0,2,Self-employed,Bachelor,Average,1
+48,104865.0,0,73521,91689.0,3,4,39370.0,2,Salaried,Bachelor,Average,1
+30,44795.0,10,83373,98943.0,0,12,44895.0,5,Self-employed,Diploma,Good,0
+32,118730.0,14,77383,59555.0,3,14,48409.0,1,Salaried,Master,Average,1
+52,47541.0,4,16983,73856.0,0,6,54756.0,0,Salaried,Bachelor,Good,1
+58,62256.0,26,94859,110310.0,2,19,79916.0,4,Salaried,Diploma,Good,1
+47,134901.0,7,109610,101120.0,2,2,62184.0,6,Salaried,Diploma,Good,1
+57,26184.0,15,139556,3911.0,1,19,7918.0,3,Self-employed,Bachelor,Good,1
+55,90443.0,6,139819,114355.0,0,16,12554.0,0,Salaried,Bachelor,Good,1
+40,114320.0,14,76313,8037.0,0,4,6023.0,3,Salaried,Bachelor,,1
+51,39388.0,14,144053,3188.0,3,13,35247.0,1,Contract,Diploma,Average,1
+34,65750.0,0,81655,48393.0,3,6,31927.0,5,Self-employed,Bachelor,Good,0
+39,73647.0,17,98097,89503.0,2,16,75082.0,4,Salaried,Bachelor,Good,1
+42,125507.0,24,92290,9633.0,2,3,33095.0,2,Contract,Diploma,Average,1
+59,176227.0,29,149809,35158.0,1,5,8268.0,4,Salaried,Master,Poor,1
+54,153472.0,10,111940,31527.0,2,6,71404.0,4,Self-employed,High School,Poor,1
+40,48742.0,22,22400,47686.0,0,4,25260.0,4,Salaried,High School,Average,0
+47,20942.0,27,15418,118324.0,1,6,73532.0,2,Salaried,Bachelor,Poor,0
+29,26409.0,11,64433,39770.0,1,11,63309.0,3,Salaried,Bachelor,Average,1
+53,114506.0,11,79775,25075.0,1,13,71159.0,0,Salaried,Diploma,Poor,1
+43,43314.0,25,101951,14677.0,1,11,66660.0,2,Salaried,Bachelor,Poor,1
+42,55467.0,17,74831,23774.0,2,3,16595.0,2,Salaried,Diploma,Good,1
+51,155278.0,1,79623,15976.0,1,4,52337.0,3,Self-employed,Bachelor,Poor,1
+46,159570.0,8,138645,68837.0,1,19,36496.0,6,Salaried,Bachelor,Average,1
+23,153923.0,5,53557,,1,5,52530.0,6,Salaried,Master,Average,1
+32,59093.0,4,76558,59760.0,1,2,61196.0,3,Contract,Bachelor,Poor,1
+28,118389.0,10,85821,99858.0,0,9,43071.0,4,Self-employed,Bachelor,Good,1
+50,116945.0,24,72906,69653.0,0,0,29133.0,0,Contract,Bachelor,Good,1
+22,48010.0,4,145378,18620.0,0,4,73809.0,3,Salaried,Diploma,Average,0
+29,107674.0,11,144519,45208.0,1,11,55080.0,4,Salaried,Diploma,Average,1
+44,103092.0,6,79403,37509.0,1,5,71531.0,4,Salaried,Master,Poor,1
+48,82179.0,16,70334,99212.0,0,14,23548.0,6,Salaried,Diploma,Poor,1
+41,139770.0,7,90401,36843.0,1,10,68031.0,3,Salaried,Bachelor,Average,1
+55,127775.0,29,31228,16629.0,3,7,29933.0,6,Contract,High School,Poor,1
+57,104290.0,2,66767,88321.0,0,13,40076.0,6,Self-employed,Bachelor,Good,1
+26,135575.0,8,36453,51407.0,3,8,69672.0,4,Self-employed,Diploma,Poor,0
+59,141624.0,24,25887,11503.0,1,6,32249.0,0,Salaried,Master,Good,1
+45,109844.0,26,18802,82772.0,0,4,24537.0,2,Self-employed,Bachelor,Average,1
+46,61363.0,26,90125,25261.0,1,19,73751.0,5,Salaried,High School,Good,1
+24,140865.0,5,5082,104189.0,1,3,77360.0,4,Contract,Bachelor,Average,1
+45,134254.0,27,98695,99896.0,1,20,29020.0,6,Salaried,Bachelor,Good,1
+50,177314.0,18,67632,44348.0,1,9,28663.0,5,Salaried,Diploma,Good,1
+44,42265.0,26,58140,66672.0,1,20,22848.0,0,Salaried,Diploma,Average,1
+24,85922.0,6,116540,68130.0,1,6,7741.0,6,Self-employed,Bachelor,Average,0
+41,167725.0,17,83119,78411.0,0,11,46913.0,2,Contract,Bachelor,Good,1
+58,101362.0,11,111353,8296.0,0,12,24862.0,5,Contract,Diploma,Average,1
+49,170705.0,3,107874,38982.0,0,7,68832.0,3,Self-employed,Master,Good,1
+26,20020.0,3,9661,20438.0,0,4,18669.0,3,Contract,Diploma,Good,1
+59,23697.0,12,36246,83700.0,2,10,53010.0,0,Self-employed,High School,Good,0
+59,146957.0,25,87648,8296.0,1,13,43505.0,0,Salaried,Bachelor,Average,1
+27,76066.0,9,146455,62035.0,0,5,51283.0,4,Self-employed,High School,Average,1
+53,102277.0,14,27371,87346.0,1,16,14341.0,3,Salaried,Diploma,Average,1
+37,87337.0,7,20306,113806.0,0,13,40525.0,3,Salaried,Bachelor,Average,0
+44,84090.0,17,141457,34567.0,4,3,52328.0,1,Salaried,Diploma,Average,1
+38,170195.0,19,145187,956.0,0,19,31230.0,3,Salaried,Diploma,Average,1
+52,33239.0,30,29268,86850.0,1,0,70743.0,0,Contract,Bachelor,Poor,0
+60,143099.0,22,63248,185.0,0,13,45186.0,1,Contract,Bachelor,Good,1
+52,162125.0,18,95863,7967.0,0,9,32826.0,3,Salaried,Master,Good,0
+58,124501.0,28,33308,118860.0,1,13,8280.0,4,Self-employed,Bachelor,Good,1
+58,81991.0,13,52304,103506.0,0,16,18468.0,4,Salaried,Bachelor,Average,1
+24,43922.0,6,62317,84905.0,1,6,41268.0,6,Salaried,Diploma,Good,0
+31,128578.0,11,98027,100264.0,1,13,35602.0,5,Salaried,Bachelor,Good,1
+49,93945.0,3,49669,9042.0,1,17,70492.0,2,Salaried,Diploma,Poor,1
+44,42198.0,12,64777,10671.0,1,14,64162.0,5,Salaried,Diploma,Poor,1
+23,76263.0,3,46989,36099.0,0,5,17763.0,0,Salaried,Master,Good,1
+24,173772.0,3,115149,2850.0,1,6,49770.0,6,Salaried,Bachelor,Good,1
+41,60992.0,23,27190,106598.0,0,4,39626.0,2,Salaried,Bachelor,Good,1
+45,46907.0,24,38448,6754.0,1,4,13484.0,5,Contract,High School,Good,1
+27,128480.0,6,41248,65285.0,2,9,55278.0,6,Salaried,High School,Poor,1
+27,50326.0,9,136340,102436.0,1,9,45752.0,4,Salaried,Bachelor,Average,0
+26,167026.0,2,141950,88199.0,1,1,12471.0,6,Salaried,Bachelor,Good,1
+43,157156.0,8,77530,28164.0,0,4,40638.0,0,Salaried,Bachelor,Good,1
+21,177332.0,3,27678,56440.0,1,3,60144.0,1,Salaried,High School,Good,1
+43,165839.0,9,114634,65793.0,4,15,30206.0,4,Salaried,Diploma,Good,1
+40,57490.0,22,76353,92151.0,2,15,32410.0,3,Self-employed,Bachelor,Good,1
+39,52368.0,21,128211,51149.0,2,4,14151.0,0,Salaried,Bachelor,Average,0
+48,73507.0,2,57199,34204.0,1,1,21121.0,5,Self-employed,High School,Good,1
+41,94108.0,0,149831,95463.0,2,6,78603.0,0,Salaried,High School,Poor,0
+50,160560.0,29,122016,106378.0,2,17,51939.0,6,Salaried,Diploma,Good,1
+51,136826.0,16,37472,58668.0,2,10,19027.0,1,Salaried,High School,Average,1
+57,122399.0,15,110204,3362.0,0,16,41724.0,3,Salaried,Bachelor,Good,1
+52,160296.0,14,46599,60079.0,0,10,20263.0,5,Salaried,High School,Good,1
+41,122634.0,13,55720,106715.0,1,10,38763.0,3,Salaried,Bachelor,Poor,1
+40,79406.0,21,41313,118692.0,3,12,16773.0,5,Salaried,Bachelor,Average,1
+30,84906.0,12,103922,48124.0,2,12,51791.0,4,Self-employed,Master,Good,1
+44,101757.0,5,43116,18015.0,3,9,48194.0,6,Salaried,Master,Good,1
+26,32381.0,8,97626,68660.0,1,8,52874.0,3,Salaried,Diploma,Average,0
+58,138158.0,20,89455,99685.0,1,19,38831.0,6,Self-employed,High School,Poor,1
+54,123750.0,3,113866,113401.0,1,7,27162.0,3,Salaried,Diploma,Average,1
+25,136444.0,7,149061,6210.0,2,7,24467.0,6,Self-employed,Bachelor,Good,1
+52,104499.0,24,6278,34866.0,1,11,21920.0,5,Contract,High School,Good,1
+25,144840.0,7,148591,57318.0,1,7,37777.0,0,Contract,Bachelor,Good,1
+49,171860.0,4,20856,11790.0,0,9,39408.0,4,Salaried,Diploma,Good,1
+24,110329.0,1,81382,106361.0,1,6,55841.0,6,Salaried,Diploma,Average,0
+40,89990.0,18,54429,13460.0,1,6,9880.0,0,Self-employed,Bachelor,Average,1
+47,34947.0,14,97659,79826.0,1,13,26846.0,5,Self-employed,Bachelor,Good,0
+50,144146.0,29,109652,110236.0,0,6,69095.0,0,Self-employed,Bachelor,Average,1
+37,164444.0,16,129696,82226.0,1,12,73729.0,6,Salaried,Master,Average,0
+57,131318.0,28,63287,91585.0,2,16,74887.0,5,Salaried,High School,Average,0
+51,158223.0,6,140276,31598.0,1,9,28669.0,1,Salaried,High School,Good,1
+29,157515.0,11,51753,99297.0,0,9,,5,Salaried,Bachelor,Good,1
+47,147292.0,4,34559,50229.0,0,6,20665.0,0,Salaried,Bachelor,Good,1
+50,99467.0,17,59974,7358.0,2,15,15758.0,3,Contract,Bachelor,Good,1
+34,34177.0,5,81639,43990.0,0,12,76638.0,6,Salaried,High School,Good,1
+50,18525.0,15,101883,41981.0,1,10,71371.0,1,Self-employed,Master,Good,0
+56,51112.0,10,125762,62573.0,3,0,65982.0,1,Contract,Diploma,Good,0
+53,87826.0,5,37604,31779.0,2,2,60006.0,2,Salaried,Bachelor,Good,1
+51,138464.0,3,48964,55467.0,1,0,31392.0,2,Salaried,Bachelor,Poor,1
+46,91841.0,15,141109,51356.0,3,17,41201.0,0,Self-employed,Master,Average,1
+31,21748.0,13,68772,39228.0,1,13,68266.0,3,Salaried,Bachelor,Good,1
+52,52076.0,6,40028,83548.0,2,1,66263.0,1,Salaried,Master,Poor,0
+35,176635.0,12,147916,36657.0,0,0,44392.0,0,Self-employed,Diploma,Good,1
+42,178060.0,6,70101,91894.0,2,16,67980.0,1,Self-employed,Bachelor,Good,1
+33,79097.0,15,147832,30102.0,4,11,31660.0,0,Self-employed,Bachelor,Average,1
+33,148408.0,12,138301,103785.0,1,6,36599.0,6,Contract,Bachelor,Good,1
+27,134529.0,9,136386,43806.0,1,9,68132.0,6,Salaried,Bachelor,Good,1
+59,168866.0,7,89367,4883.0,4,4,33855.0,2,Self-employed,Master,Good,1
+26,161787.0,2,120775,17993.0,1,4,61660.0,6,Self-employed,High School,Good,1
+24,119856.0,6,144281,96751.0,0,6,39543.0,3,Self-employed,Bachelor,Average,1
+58,81930.0,20,44024,104653.0,3,18,28043.0,6,Self-employed,Master,Good,1
+43,119519.0,25,10473,25437.0,1,16,22193.0,1,Self-employed,Master,Good,1
+38,69699.0,20,51523,72254.0,0,3,50894.0,1,Contract,Master,,1
+50,74391.0,27,97350,68922.0,1,11,41495.0,5,Salaried,Master,Good,1
+36,116616.0,18,84356,16054.0,0,18,33335.0,1,Self-employed,High School,Good,1
+26,110567.0,8,16684,54239.0,0,8,60994.0,5,Salaried,Master,Poor,0
+50,112120.0,13,86313,83263.0,1,16,6077.0,2,Self-employed,Bachelor,Average,1
+28,80317.0,4,30287,116056.0,1,2,12822.0,2,Self-employed,Bachelor,Good,1
+43,84281.0,13,78298,101720.0,1,5,77175.0,3,Self-employed,Bachelor,Average,0
+58,19651.0,11,88477,11740.0,1,4,55101.0,5,Salaried,Bachelor,Good,0
+58,115488.0,1,97317,28504.0,0,3,46673.0,0,Salaried,Bachelor,Good,0
+35,111277.0,6,64820,52405.0,1,3,7090.0,5,Salaried,Master,Good,1
+52,169532.0,16,64207,18072.0,1,6,50284.0,5,Salaried,Diploma,Good,1
+45,99693.0,11,103393,68483.0,1,11,38175.0,5,Salaried,Diploma,Average,1
+40,93758.0,22,113631,1034.0,2,8,50392.0,6,Contract,Bachelor,Poor,1
+26,28964.0,8,122123,13622.0,0,8,9034.0,5,Salaried,High School,Good,0
+36,49872.0,18,53365,5670.0,0,5,46748.0,3,Contract,Bachelor,Good,1
+47,72762.0,20,66491,35458.0,1,3,48762.0,3,Salaried,Diploma,Average,1
+60,79107.0,1,52948,91470.0,4,20,27463.0,2,Self-employed,Bachelor,Good,0
+21,76755.0,3,81494,21272.0,2,3,10033.0,5,Salaried,High School,Good,0
+49,81845.0,21,23447,118463.0,4,4,77897.0,2,Self-employed,Diploma,Poor,0
+54,142565.0,16,67363,32345.0,3,17,58495.0,4,Self-employed,Bachelor,Average,1
+59,39239.0,9,32363,5385.0,0,17,52004.0,0,Self-employed,Diploma,Poor,1
+37,71826.0,16,82199,,0,19,62765.0,2,Contract,Diploma,Good,0
+25,44385.0,7,128326,89769.0,0,3,55648.0,1,Salaried,Diploma,Good,1
+31,67863.0,12,147883,12798.0,1,13,15945.0,3,Salaried,Diploma,Good,1
+55,128899.0,1,69711,8623.0,3,20,39655.0,3,Salaried,Bachelor,Poor,0
+56,25575.0,9,13167,101922.0,1,16,71762.0,5,Self-employed,Diploma,Good,0
+46,72995.0,28,38041,71056.0,1,4,27302.0,3,Salaried,Bachelor,Good,1
+25,21837.0,7,20198,41189.0,0,7,77944.0,1,Salaried,Bachelor,Good,1
+25,172694.0,7,115105,90729.0,0,7,10761.0,3,Self-employed,Bachelor,Average,1
+40,135816.0,22,147778,101319.0,1,10,30473.0,0,Salaried,Bachelor,Average,1
+44,57462.0,3,85327,43104.0,3,11,31917.0,5,Self-employed,Diploma,Average,0
+22,50108.0,4,30643,67342.0,0,4,51689.0,5,Self-employed,Master,Good,0
+48,34025.0,1,8067,1312.0,1,2,19031.0,1,Self-employed,Bachelor,Average,1
+42,94607.0,0,146534,36736.0,1,11,22956.0,1,Self-employed,Diploma,Good,1
+21,140068.0,3,50872,71423.0,1,3,54995.0,0,Contract,Master,Good,1
+24,112642.0,6,21241,23652.0,1,6,27063.0,2,Self-employed,Bachelor,Good,1
+39,160728.0,4,30665,118950.0,1,5,71047.0,0,Contract,Bachelor,Good,1
+49,73698.0,22,42012,116538.0,2,1,70395.0,6,Salaried,Master,Good,1
+54,63054.0,16,100102,30914.0,0,11,28404.0,0,Self-employed,High School,Poor,1
+38,95444.0,2,134309,47563.0,1,14,47436.0,4,Self-employed,Master,Good,1
+32,50738.0,14,44879,22739.0,0,11,30633.0,3,Salaried,Bachelor,Good,1
+59,176055.0,27,104650,60474.0,2,20,31520.0,1,Salaried,Bachelor,Average,1
+39,48094.0,17,14417,14871.0,1,12,55607.0,5,Salaried,Diploma,Average,1
+33,95576.0,15,6464,46914.0,1,10,27691.0,0,Salaried,High School,Good,1
+38,102566.0,12,12965,66631.0,2,1,17046.0,6,Contract,Master,Average,1
+21,27241.0,3,138854,73421.0,0,3,25174.0,5,Salaried,High School,Good,0
+33,93883.0,13,89351,71574.0,2,3,74779.0,4,Salaried,Diploma,Good,1
+41,91662.0,23,121750,26570.0,3,15,25190.0,6,Salaried,Bachelor,Average,1
+57,60029.0,1,8149,95073.0,2,3,32925.0,2,Salaried,Bachelor,Average,1
+50,38730.0,5,8223,83010.0,1,19,52533.0,1,Salaried,Diploma,Good,0
+52,25318.0,30,128075,90369.0,0,6,13488.0,1,Salaried,Bachelor,Good,0
+42,19390.0,8,19878,56142.0,1,9,25866.0,6,Salaried,Bachelor,Good,0
+25,96002.0,7,27532,107105.0,0,3,18926.0,2,Salaried,Master,Good,1
+36,32554.0,18,80247,46783.0,0,4,74403.0,5,Self-employed,High School,Poor,1
+60,173412.0,5,92952,96693.0,2,19,75024.0,2,Salaried,High School,Good,1
+22,57649.0,4,38188,24423.0,0,4,61925.0,6,Self-employed,Bachelor,Poor,1
+56,123708.0,8,69480,29672.0,2,10,24287.0,6,Salaried,Diploma,,1
+48,127105.0,6,102857,63209.0,2,20,51615.0,2,Salaried,Bachelor,Average,0
+32,98272.0,14,69213,66705.0,2,13,55008.0,3,Contract,High School,Good,1
+52,161146.0,6,60485,89546.0,2,0,70334.0,5,Salaried,Bachelor,Good,1
+54,35932.0,2,15410,35689.0,3,7,17556.0,1,Salaried,Master,Good,1
+22,55913.0,4,70522,104718.0,1,4,60483.0,0,Self-employed,Master,Good,0
+25,58894.0,7,121399,39574.0,0,5,20363.0,2,Salaried,Master,Poor,0
+47,39937.0,3,95880,64102.0,2,5,48083.0,4,Self-employed,Master,Average,0
+60,65753.0,21,134493,111834.0,1,10,71064.0,0,Self-employed,Bachelor,Average,0
+21,68655.0,3,23294,64728.0,1,3,10593.0,2,Contract,Bachelor,Good,0
+47,141898.0,25,6597,81828.0,0,6,16954.0,6,Contract,Master,Average,1
+26,66863.0,3,84483,109035.0,1,8,66172.0,0,Salaried,Master,Average,1
+47,160028.0,29,30897,116951.0,1,7,7387.0,0,Self-employed,Master,Average,1
+45,143173.0,19,91129,59929.0,2,4,56700.0,2,Salaried,Bachelor,Average,1
+24,164066.0,6,136067,50029.0,0,6,43091.0,0,Self-employed,Diploma,Average,1
+48,35046.0,11,53885,23631.0,0,19,31649.0,0,Self-employed,Master,Good,1
+56,177501.0,29,84677,64493.0,2,10,69842.0,1,Salaried,Master,Poor,1
+55,117462.0,19,103846,110201.0,1,12,68823.0,0,Salaried,Bachelor,Good,1
+22,177144.0,3,26755,58454.0,2,4,30123.0,5,Salaried,Master,Good,1
+30,75484.0,12,135120,41817.0,2,12,6327.0,0,Salaried,Bachelor,Poor,1
+30,172386.0,12,34404,12874.0,0,4,15484.0,3,Salaried,Master,Good,1
+39,113354.0,9,122200,46768.0,0,8,13945.0,4,Contract,High School,Good,1
+26,29635.0,8,100698,28404.0,1,8,78686.0,4,Salaried,Master,Good,1
+55,84440.0,12,25440,117206.0,3,9,50170.0,4,Self-employed,High School,Good,1
+52,40322.0,16,110099,63316.0,0,3,56079.0,2,Self-employed,Diploma,Poor,1
+53,170488.0,29,33488,16438.0,1,2,23087.0,6,Self-employed,High School,Average,1
+28,67323.0,10,91917,8084.0,4,7,68951.0,0,Salaried,Bachelor,Good,1
+21,54022.0,3,144154,102090.0,2,3,59478.0,0,Contract,Diploma,Poor,0
+57,107570.0,30,143207,111776.0,0,15,61658.0,5,Self-employed,Master,Average,1
+32,86876.0,13,131330,91561.0,0,14,40650.0,0,Self-employed,Bachelor,Poor,1
+47,33710.0,21,76639,14861.0,1,3,57670.0,1,Contract,Master,Good,1
+57,150272.0,23,86133,11794.0,3,8,46260.0,1,Self-employed,Diploma,Good,1
+22,155019.0,4,48539,23757.0,1,4,34458.0,0,Salaried,High School,Good,1
+21,138360.0,3,138539,90137.0,2,3,49993.0,0,Contract,Bachelor,Good,0
+21,117915.0,3,74199,91839.0,0,3,30001.0,4,Salaried,Bachelor,Average,1
+27,83214.0,9,116886,100542.0,0,7,76511.0,4,Self-employed,Bachelor,Good,0
+23,105863.0,5,57151,11632.0,2,1,59055.0,0,Salaried,Bachelor,Good,1
+53,102401.0,8,112362,18385.0,0,18,60685.0,6,Salaried,Master,Average,1
+45,44780.0,11,37540,108034.0,1,19,59037.0,0,Salaried,Bachelor,Good,0
+60,31253.0,6,111401,111450.0,4,1,39177.0,4,Salaried,Master,Good,0
+53,59027.0,12,11664,87084.0,1,8,76344.0,5,Contract,Bachelor,Average,0
+59,91602.0,3,20198,12724.0,0,10,21381.0,3,Salaried,Bachelor,Poor,0
+30,43970.0,2,56071,8234.0,1,12,48081.0,3,Self-employed,Bachelor,Good,1
+32,35280.0,14,74895,6670.0,3,14,11136.0,0,Salaried,High School,Poor,1
+54,156014.0,2,108155,83022.0,2,8,27802.0,1,Contract,Diploma,Average,1
+30,78749.0,12,57062,101516.0,3,12,48517.0,5,Salaried,Bachelor,Average,0
+23,112645.0,5,7673,75796.0,0,5,42225.0,2,Salaried,Bachelor,Good,0
+47,102893.0,22,52182,31452.0,1,17,75646.0,0,Salaried,Diploma,Average,1
+53,,13,68681,90882.0,0,6,51415.0,5,Salaried,Bachelor,Average,1
+59,137850.0,6,83839,7095.0,1,17,36449.0,4,Contract,Diploma,Good,1
+58,65957.0,28,98382,99384.0,0,8,37578.0,0,Contract,Diploma,Poor,1
+25,155361.0,7,40911,107026.0,1,0,51258.0,0,Salaried,Master,Poor,0
+51,78143.0,18,93509,86202.0,1,15,64544.0,0,Salaried,Bachelor,Good,0
+54,153304.0,2,96580,105512.0,1,17,26463.0,0,Salaried,Diploma,Average,1
+48,83586.0,1,117614,70341.0,1,7,49261.0,4,Salaried,Bachelor,Good,1
+53,35981.0,9,80697,56204.0,1,9,48530.0,0,Self-employed,Bachelor,Average,1
+54,141123.0,4,122526,38695.0,0,7,6698.0,4,Salaried,Bachelor,Average,1
+38,22886.0,20,37132,110606.0,3,2,73546.0,1,Self-employed,Master,Good,0
+22,143121.0,4,108198,83673.0,0,4,48168.0,6,Contract,Bachelor,Good,0
+39,24992.0,8,11647,22859.0,2,0,23913.0,5,Salaried,Bachelor,Good,0
+29,51503.0,11,19905,114837.0,2,11,52887.0,2,Salaried,Bachelor,Poor,0
+25,115745.0,7,130385,7104.0,1,0,56158.0,3,Salaried,Bachelor,Good,1
+25,170530.0,6,73878,70503.0,0,7,73730.0,0,Salaried,Diploma,Poor,1
+48,84173.0,11,95023,22865.0,1,18,8521.0,0,Salaried,High School,Good,1
+41,37546.0,15,92494,79722.0,3,13,36615.0,3,Self-employed,Master,Good,0
+42,55731.0,20,105755,49518.0,0,12,19331.0,0,Salaried,Bachelor,Poor,1
+50,163172.0,29,40607,52455.0,1,17,48511.0,4,Self-employed,Bachelor,Average,1
+42,135731.0,24,30848,80585.0,3,20,43119.0,2,Contract,High School,Good,1
+46,34264.0,28,11170,90735.0,1,18,41150.0,0,Contract,Master,Good,1
+24,80353.0,1,130392,45605.0,1,4,78670.0,3,Self-employed,Diploma,Good,1
+55,60855.0,7,37420,119721.0,0,11,45343.0,3,Salaried,Bachelor,Good,1
+38,46808.0,17,88400,59817.0,2,17,36415.0,5,Salaried,Master,Good,1
+27,155130.0,1,70960,19246.0,0,6,10980.0,1,Salaried,Bachelor,Average,1
+53,118069.0,11,28541,767.0,1,14,,3,Contract,Master,Good,1
+50,47077.0,4,65020,24288.0,0,0,72399.0,5,Contract,Diploma,Good,1
+23,123413.0,5,17064,82931.0,1,5,39424.0,1,Salaried,Bachelor,Good,1
+28,84998.0,1,30616,64733.0,1,10,73371.0,5,Salaried,Master,Good,0
+21,27959.0,3,25255,40539.0,0,3,45414.0,5,Salaried,Bachelor,Poor,1
+31,90877.0,6,124541,57765.0,0,13,46556.0,3,Salaried,Bachelor,Good,1
+24,48007.0,4,87276,100575.0,0,4,37811.0,6,Contract,Bachelor,Good,0
+49,57732.0,17,139225,68588.0,0,9,47185.0,6,Salaried,Bachelor,Average,0
+41,160398.0,11,68218,6971.0,1,18,10934.0,1,Salaried,Master,Poor,1
+60,133060.0,28,34195,5888.0,2,3,10259.0,6,Salaried,Bachelor,Average,1
+50,39722.0,8,93245,57846.0,2,17,41207.0,0,Salaried,Master,Average,1
+45,155917.0,16,139789,48513.0,0,6,50248.0,0,Salaried,Bachelor,Poor,1
+41,111038.0,20,82226,102061.0,1,12,46764.0,0,Contract,Bachelor,Average,1
+23,159682.0,5,7589,69957.0,1,5,37757.0,2,Salaried,Diploma,Poor,1
+23,139026.0,5,49025,90824.0,1,5,27758.0,6,Self-employed,Bachelor,Good,1
+45,72970.0,6,139120,70223.0,1,17,58469.0,4,Salaried,Master,Average,1
+21,104649.0,3,80161,41433.0,1,3,50749.0,4,Salaried,Bachelor,Poor,1
+22,103998.0,4,143030,78880.0,0,3,9487.0,0,Salaried,Diploma,Poor,1
+29,134631.0,11,78844,74572.0,4,8,39476.0,3,Salaried,Bachelor,Good,0
+56,58242.0,19,6747,86426.0,1,12,58606.0,2,Salaried,Bachelor,Average,0
+39,71960.0,20,131593,22709.0,1,15,64029.0,3,Salaried,Master,Good,1
+49,57657.0,26,115638,76986.0,2,15,27230.0,1,Self-employed,Diploma,Average,1
+37,65975.0,19,108711,34256.0,2,7,74448.0,1,Self-employed,High School,Good,1
+27,44123.0,9,145680,94829.0,0,9,54226.0,6,Contract,Bachelor,Average,0
+35,23920.0,3,33448,95823.0,0,1,38388.0,3,Salaried,High School,Average,0
+24,170284.0,6,136356,74971.0,2,2,52407.0,2,Self-employed,Master,Good,1
+51,30039.0,3,38730,113604.0,1,0,70493.0,0,Self-employed,Bachelor,Good,0
+28,161855.0,2,145753,64501.0,1,10,22786.0,5,Salaried,Bachelor,Good,1
+36,18498.0,14,32757,3016.0,2,3,17127.0,3,Salaried,Diploma,Average,0
+60,143932.0,7,84797,72744.0,0,12,38593.0,2,Salaried,Bachelor,Average,1
+44,71201.0,12,119455,93324.0,3,17,12210.0,4,Self-employed,Master,Average,1
+39,101861.0,13,16332,12143.0,1,16,67837.0,0,Salaried,Bachelor,Good,1
+42,63720.0,19,14672,12552.0,1,19,77813.0,3,Salaried,High School,Average,1
+52,97478.0,29,128220,32779.0,1,1,50814.0,6,Contract,Diploma,Average,0
+31,91153.0,13,13761,101310.0,0,8,78509.0,3,Salaried,Master,Good,1
+46,103819.0,11,94005,63288.0,1,10,11086.0,0,Contract,Master,Good,1
+55,81712.0,10,141042,117173.0,2,14,52808.0,1,Self-employed,Diploma,Good,0
+43,104924.0,23,94137,104759.0,0,13,38775.0,0,Self-employed,Bachelor,Good,1
+38,151725.0,3,74745,66580.0,1,11,26525.0,3,Self-employed,High School,Good,1
+26,88399.0,8,65502,81486.0,3,6,29071.0,2,Salaried,Bachelor,Good,1
+30,76543.0,12,97534,39720.0,1,2,46343.0,0,Self-employed,High School,Good,1
+58,39344.0,5,87917,10849.0,1,9,53482.0,4,Self-employed,Bachelor,Good,1
+42,76274.0,19,77756,47848.0,1,5,18136.0,1,Self-employed,Master,Good,1
+33,38357.0,9,27269,71073.0,0,11,51478.0,2,Salaried,Diploma,Average,0
+37,47565.0,5,101087,21863.0,1,16,74565.0,6,Salaried,Bachelor,Good,0
+44,172265.0,20,112267,26608.0,2,11,6769.0,0,Salaried,High School,Good,1
+42,32485.0,5,107784,1799.0,0,12,70999.0,1,Salaried,Diploma,Average,1
+48,96089.0,20,15877,88082.0,0,0,50970.0,2,Salaried,High School,Good,1
+31,153157.0,5,106918,107932.0,0,13,31324.0,3,Self-employed,Diploma,Good,1
+46,172420.0,13,110818,99293.0,1,9,60379.0,1,Self-employed,Master,Good,1
+38,41767.0,20,31595,45600.0,1,2,51716.0,6,Self-employed,High School,Good,1
+58,44499.0,7,128102,71215.0,0,4,62886.0,0,Salaried,Master,Average,1
+27,78361.0,9,80958,115297.0,2,9,12015.0,6,Salaried,High School,Good,0
+26,107816.0,8,73508,70964.0,2,8,10364.0,3,Salaried,Bachelor,Good,0
+39,173489.0,21,109797,35506.0,1,10,53509.0,0,Salaried,Bachelor,Average,1
+41,51650.0,5,78925,40631.0,2,20,28471.0,0,Salaried,Master,Poor,0
+48,,22,83988,87256.0,2,3,23632.0,0,Salaried,Diploma,Good,1
+37,59016.0,19,50271,53550.0,0,6,37174.0,2,Salaried,Diploma,Good,0
+57,159640.0,23,139543,100477.0,2,19,59666.0,2,Salaried,Bachelor,Good,1
+39,22868.0,5,145572,103693.0,1,3,19303.0,4,Salaried,Bachelor,Average,0
+26,79582.0,8,23912,4300.0,0,8,78017.0,2,Salaried,Bachelor,Average,1
+25,37270.0,3,111303,86799.0,2,4,37134.0,5,Salaried,High School,Average,0
+59,43445.0,18,8383,44395.0,0,6,17143.0,2,Self-employed,Diploma,Good,1
+26,166530.0,8,58503,62370.0,1,8,11263.0,1,Salaried,Master,Good,1
+58,18269.0,16,145650,31775.0,1,7,69438.0,1,Salaried,Bachelor,Average,1
+32,70088.0,14,30347,44188.0,0,14,14378.0,2,Salaried,Bachelor,Good,1
+24,166299.0,0,59665,39645.0,1,6,37003.0,5,Contract,Diploma,Poor,0
+33,116517.0,15,36839,6045.0,1,10,55484.0,1,Self-employed,Diploma,Good,1
+45,29624.0,27,110592,93933.0,3,11,43969.0,1,Self-employed,Master,Good,0
+38,93332.0,13,72269,17161.0,2,1,25430.0,6,Salaried,Bachelor,Good,1
+52,175294.0,8,91002,45096.0,0,4,13986.0,4,Self-employed,High School,Good,1
+45,82873.0,27,141673,23163.0,1,0,58644.0,1,Contract,Master,Average,1
+37,103638.0,3,80552,19273.0,2,17,42281.0,6,Salaried,Bachelor,Good,1
+46,104166.0,15,111451,44806.0,2,4,9560.0,1,Self-employed,Diploma,Average,1
+59,124993.0,15,19196,110252.0,1,7,19408.0,1,Salaried,Bachelor,Average,1
+37,48332.0,14,36210,113298.0,2,17,47640.0,3,Self-employed,Bachelor,Poor,0
+27,154029.0,9,142295,45804.0,1,9,18460.0,4,Salaried,Bachelor,Average,1
+37,178154.0,13,129637,60618.0,1,13,34967.0,1,Salaried,Bachelor,Poor,1
+54,41093.0,30,100218,118284.0,4,0,15214.0,5,Contract,Bachelor,Poor,0
+29,150566.0,2,59839,28181.0,3,11,64976.0,1,Contract,Diploma,Good,1
+58,150340.0,22,33971,113365.0,1,11,52650.0,5,Salaried,Master,Poor,1
+44,138142.0,18,128500,12690.0,2,6,64013.0,0,Contract,Bachelor,Poor,1
+45,78082.0,7,118870,27102.0,0,15,9881.0,3,Salaried,Bachelor,Good,1
+33,93939.0,7,40046,40597.0,2,15,33791.0,4,Salaried,Bachelor,Average,1
+57,153953.0,22,90526,4450.0,1,5,25803.0,1,Contract,Bachelor,Good,1
+22,42766.0,4,94706,97888.0,4,4,52081.0,4,Salaried,Bachelor,Average,0
+32,152257.0,14,74232,102650.0,1,6,66791.0,4,Salaried,Bachelor,Good,1
+37,167148.0,1,139368,46001.0,0,17,22838.0,4,Self-employed,Master,Average,1
+40,128463.0,18,22994,100367.0,0,1,62961.0,2,Salaried,Bachelor,,1
+39,73305.0,21,42394,92701.0,2,18,48950.0,5,Salaried,Bachelor,Average,0
+26,108583.0,0,18779,96169.0,2,8,66981.0,5,Salaried,Diploma,Good,0
+30,26117.0,12,105475,96325.0,0,10,12013.0,2,Self-employed,Bachelor,,0
+24,168953.0,6,98382,68818.0,0,6,79329.0,5,Salaried,Bachelor,Good,1
+43,73469.0,25,148161,13298.0,1,18,38161.0,6,Salaried,High School,Average,1
+35,27249.0,8,83636,110819.0,1,16,26726.0,5,Self-employed,Bachelor,Good,0
+43,146702.0,14,26836,73039.0,3,5,19522.0,5,Salaried,Diploma,Good,1
+44,124525.0,22,70378,108152.0,2,1,78884.0,5,Salaried,Diploma,Good,0
+49,118879.0,1,17818,115092.0,0,13,71371.0,5,Self-employed,Diploma,Poor,0
+42,26763.0,24,102282,22459.0,0,3,15708.0,2,Self-employed,Diploma,Good,1
+46,139636.0,25,102758,48256.0,0,1,38923.0,5,Salaried,Diploma,Average,1
+44,121246.0,22,129360,23099.0,1,20,60282.0,1,Contract,Bachelor,Good,1
+47,146569.0,20,54262,6113.0,0,9,49717.0,2,Self-employed,Bachelor,Average,1
+45,152028.0,23,49967,115969.0,1,13,19988.0,6,Salaried,Diploma,Good,1
+33,52336.0,15,15330,110797.0,1,4,32668.0,1,Self-employed,Diploma,Good,1
+30,52123.0,12,65197,111809.0,0,2,33242.0,5,Self-employed,Bachelor,Good,0
+52,167653.0,13,73919,106040.0,0,1,27367.0,2,Self-employed,High School,Good,1
+34,104026.0,14,114400,77853.0,0,7,77092.0,1,Salaried,Bachelor,Good,0
+42,88954.0,19,114297,62657.0,0,0,21016.0,0,Self-employed,Bachelor,Good,1
+28,64526.0,5,25336,118977.0,1,8,58289.0,3,Contract,Bachelor,Good,0
+38,121520.0,20,46343,66270.0,0,6,73479.0,3,Salaried,Master,Poor,1
+42,140142.0,23,79163,77092.0,2,11,64816.0,3,Self-employed,Bachelor,Good,1
+46,18374.0,19,53582,25409.0,1,12,65161.0,0,Self-employed,Master,Poor,0
+42,107527.0,9,8704,89605.0,2,6,17752.0,1,Contract,Master,Good,1
+35,178926.0,10,127627,98334.0,0,9,15861.0,0,Contract,Diploma,Good,1
+59,63463.0,13,111035,81424.0,3,1,63936.0,2,Salaried,Diploma,Good,1
+41,63505.0,20,80410,59832.0,1,6,61258.0,6,Salaried,Diploma,Good,1
